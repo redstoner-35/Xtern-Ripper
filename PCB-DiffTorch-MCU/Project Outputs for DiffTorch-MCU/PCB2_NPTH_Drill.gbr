@@ -1,0 +1,9 @@
+G04 Layer_Color=0*
+%FSLAX25Y25*%
+%MOIN*%
+%TF.FileFunction,NPTH,Drill*%
+%TF.Part,Single*%
+G01*
+G75*
+%TF.MD5,E0BA45BA7CE8F9F533573794AD8230A4*%
+M02*

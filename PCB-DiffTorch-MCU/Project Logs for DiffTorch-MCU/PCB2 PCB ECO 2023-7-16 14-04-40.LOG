@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=V33A Pin=U2-9
+Added Component: Designator=C7(0402_C)
+Added Component: Designator=C8(0402_C)
+Added Component: Designator=U3(MSOP-10)
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=5V Pin=C8-2
+Added Pin To Net: NetName=GND Pin=U2-9
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=5V Pin=U3-7
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=U3-10
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=UARTUSB_N Pin=U2-8
+Added Pin To Net: NetName=UARTUSB_N Pin=U3-2
+Added Net: Name=UARTUSB_N
+Added Pin To Net: NetName=UARTUSB_P Pin=U3-1
+Added Net: Name=UARTUSB_P
+Added Member To Class: ClassName=main Member=Component C7 4.7uF (475) 20% 10V
+Added Member To Class: ClassName=main Member=Component C8 100nF (104) 10% 16V
+Added Member To Class: ClassName=main Member=Component U3 CH340E

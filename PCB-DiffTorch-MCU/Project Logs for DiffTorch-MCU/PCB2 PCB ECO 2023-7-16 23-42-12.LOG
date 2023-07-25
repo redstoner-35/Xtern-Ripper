@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=C11 Old DesignItemId=0402 1.0uF (105) 10% 25V New DesignItemId=0402 470nF (474) 10% 10V
+Change Component DesignItemId : Designator=C12 Old DesignItemId=0402 1.0uF (105) 10% 25V New DesignItemId=0402 470nF (474) 10% 10V
+Change Component DesignItemId : Designator=R7 Old DesignItemId=0402 10K次 (1002) 1% New DesignItemId=0402 68K次 (6802) 1%
+Change Component DesignItemId : Designator=R10 Old DesignItemId=0402 10K次 (1002) 1% New DesignItemId=0402 68K次 (6802) 1%
+Change Component Comment : Designator=C11 Old Comment=1.0uF (105) 10% 25V New Comment=470nF (474) 10% 10V
+Change Component Comment : Designator=C12 Old Comment=1.0uF (105) 10% 25V New Comment=470nF (474) 10% 10V
+Change Component Comment : Designator=R7 Old Comment=10K次 (1002) ㊣1% New Comment=68K次 (6802) ㊣1%
+Change Component Comment : Designator=R10 Old Comment=10K次 (1002) ㊣1% New Comment=68K次 (6802) ㊣1%

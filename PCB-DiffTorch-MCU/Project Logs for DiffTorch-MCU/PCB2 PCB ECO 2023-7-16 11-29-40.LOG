@@ -1,0 +1,5 @@
+Added Component: Designator=U1(QFN32-HT32)
+Added Member To Class: ClassName=main Member=Component J1 Typec-303-ACP16
+Added Member To Class: ClassName=main Member=Component P1 JCTRL
+Added Member To Class: ClassName=main Member=Component P2 MHDR2X3
+Added Member To Class: ClassName=main Member=Component U1 HT32F52352-QFN

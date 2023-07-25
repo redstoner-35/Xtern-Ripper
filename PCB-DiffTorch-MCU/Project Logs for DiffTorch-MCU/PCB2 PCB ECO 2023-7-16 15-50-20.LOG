@@ -1,0 +1,32 @@
+Added Component: Designator=C12(0402_C)
+Added Component: Designator=C13(0402_C)
+Added Component: Designator=Q1(SC70-3)
+Added Component: Designator=R10(0402_R)
+Added Component: Designator=R11(0402_R)
+Added Component: Designator=U4(DCK0006A_N)
+Added Pin To Net: NetName=3V3 Pin=C12-2
+Added Pin To Net: NetName=3V3 Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=SEL Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=3V3 Pin=R11-1
+Added Pin To Net: NetName=SEL Pin=R11-2
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=BOOT Pin=U4-4
+Added Pin To Net: NetName=3V3 Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Pin To Net: NetName=KEYI Pin=U4-3
+Added Net: Name=KEYI
+Added Pin To Net: NetName=KEYLOCK Pin=C12-1
+Added Pin To Net: NetName=KEYLOCK Pin=Q1-1
+Added Pin To Net: NetName=KEYLOCK Pin=R10-2
+Added Pin To Net: NetName=KEYLOCK Pin=U1-26
+Added Pin To Net: NetName=KEYLOCK Pin=U4-1
+Added Net: Name=KEYLOCK
+Added Member To Class: ClassName=main Member=Component C12 1.0uF (105) 10% 25V
+Added Member To Class: ClassName=main Member=Component C13 100nF (104) 10% 16V
+Added Member To Class: ClassName=main Member=Component Q1 2N7002 7002
+Added Member To Class: ClassName=main Member=Component R10 10K¦¸ (1002) ¡À1%
+Added Member To Class: ClassName=main Member=Component R11 2K¦¸ (2001) ¡À1%
+Added Member To Class: ClassName=main Member=Component U4 SN74LVC1G373DCKR

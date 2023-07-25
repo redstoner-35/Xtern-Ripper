@@ -1,0 +1,62 @@
+Added Component: Designator=R1(0402_R)
+Added Component: Designator=R2(0402_R)
+Added Component: Designator=R3(0402_R)
+Added Component: Designator=R4(0402_R)
+Added Component: Designator=R5(0402_R)
+Added Component: Designator=R6(0402_R)
+Added Component: Designator=R7(0402_R)
+Added Component: Designator=R8(0402_R)
+Added Pin To Net: NetName=GND Pin=D1-3
+Added Pin To Net: NetName=GND Pin=D1-4
+Added Pin To Net: NetName=GND Pin=D2-3
+Added Pin To Net: NetName=GND Pin=D2-4
+Added Pin To Net: NetName=GND Pin=D3-3
+Added Pin To Net: NetName=GND Pin=D3-4
+Added Pin To Net: NetName=GND Pin=D4-3
+Added Pin To Net: NetName=GND Pin=D4-4
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Net: Name=GND
+Added Pin To Net: NetName=GR Pin=R1-1
+Added Pin To Net: NetName=GR Pin=R3-1
+Added Pin To Net: NetName=GR Pin=R5-1
+Added Pin To Net: NetName=GR Pin=R7-1
+Added Net: Name=GR
+Added Pin To Net: NetName=KEY Pin=S1-1
+Added Net: Name=KEY
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R2-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R3-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R4-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R5-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R6-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R7-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=R8-2
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=RED Pin=R2-1
+Added Pin To Net: NetName=RED Pin=R4-1
+Added Pin To Net: NetName=RED Pin=R6-1
+Added Pin To Net: NetName=RED Pin=R8-1
+Added Net: Name=RED
+Added Member To Class: ClassName=main Member=Component R1 2K次 (2001) ㊣1%
+Added Member To Class: ClassName=main Member=Component R2 2K次 (2001) ㊣1%
+Added Member To Class: ClassName=main Member=Component R3 2K次 (2001) ㊣1%
+Added Member To Class: ClassName=main Member=Component R4 2K次 (2001) ㊣1%
+Added Member To Class: ClassName=main Member=Component R5 2K次 (2001) ㊣1%
+Added Member To Class: ClassName=main Member=Component R6 2K次 (2001) ㊣1%
+Added Member To Class: ClassName=main Member=Component R7 2K次 (2001) ㊣1%
+Added Member To Class: ClassName=main Member=Component R8 2K次 (2001) ㊣1%

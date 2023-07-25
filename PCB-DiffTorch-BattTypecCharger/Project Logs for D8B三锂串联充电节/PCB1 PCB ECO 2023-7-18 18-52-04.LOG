@@ -1,0 +1,19 @@
+Added Component: Designator=C9(0603_C)
+Added Component: Designator=C10(0603_C)
+Added Component: Designator=VR1(SOT-89(SOT-89-3))
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=5V Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=VR1-1
+Added Pin To Net: NetName=5V Pin=VR1-2
+Added Pin To Net: NetName=5V Pin=VR1-2
+Added Pin To Net: NetName=3V3 Pin=C10-2
+Added Pin To Net: NetName=3V3 Pin=VR1-3
+Added Net: Name=3V3
+Added Pin To Net: NetName=BATTSTAT Pin=U1-5
+Added Net: Name=BATTSTAT
+Added Pin To Net: NetName=CC Pin=U1-6
+Added Net: Name=CC
+Added Member To Class: ClassName=main Member=Component C9 100nF (104) 10% 50V
+Added Member To Class: ClassName=main Member=Component C10 10uF (106) 10% 10V
+Added Member To Class: ClassName=main Member=Component VR1 HT7533-1

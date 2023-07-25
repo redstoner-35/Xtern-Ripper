@@ -1,0 +1,4 @@
+Added Component: Designator=R12(0402_R)
+Added Pin To Net: NetName=NTC Pin=R12-1
+Added Pin To Net: NetName=A3V3 Pin=R12-2
+Added Member To Class: ClassName=main Member=Component R12 10K¦¸ (1002) ¡À1%

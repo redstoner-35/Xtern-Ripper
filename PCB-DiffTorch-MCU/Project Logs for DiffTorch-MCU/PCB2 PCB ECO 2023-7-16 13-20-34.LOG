@@ -1,0 +1,14 @@
+Added Component: Designator=C1(0402_C)
+Added Component: Designator=C2(0603_C)
+Added Component: Designator=VR1(SOT-23-3L)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=5V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=VR1-1
+Added Pin To Net: NetName=5V Pin=VR1-3
+Added Pin To Net: NetName=V33A Pin=C2-2
+Added Pin To Net: NetName=V33A Pin=VR1-2
+Added Net: Name=V33A
+Added Member To Class: ClassName=main Member=Component C1 100nF (104) 10% 16V
+Added Member To Class: ClassName=main Member=Component C2 10uF (106) 10% 10V
+Added Member To Class: ClassName=main Member=Component VR1 XC6206P332MR

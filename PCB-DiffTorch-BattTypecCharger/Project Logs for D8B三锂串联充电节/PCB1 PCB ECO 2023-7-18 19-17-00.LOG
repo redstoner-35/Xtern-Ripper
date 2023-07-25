@@ -1,0 +1,9 @@
+Added Component: Designator=R13(0603_R)
+Added Component: Designator=U5(DBV0005A_N)
+Added Pin To Net: NetName=COMP Pin=R13-1
+Added Pin To Net: NetName=3V3 Pin=R13-2
+Added Pin To Net: NetName=COMP Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=3V3 Pin=U5-5
+Added Member To Class: ClassName=main Member=Component R13 10K¦¸ (1002) ¡À1%
+Added Member To Class: ClassName=main Member=Component U5 SN74LVC1G17DBVR

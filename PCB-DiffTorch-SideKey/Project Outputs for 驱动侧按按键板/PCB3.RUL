@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\Projects\PCB-Projects\Çý¶¯²à°´°´¼ü°å\PCB3.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.60
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

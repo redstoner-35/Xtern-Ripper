@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=MCUUSB_N Pin=U1-7
+Added Net: Name=MCUUSB_N
+Added Pin To Net: NetName=MCUUSB_P Pin=U1-8
+Added Net: Name=MCUUSB_P
+Added Pin To Net: NetName=UART_MISO Pin=U1-5
+Added Net: Name=UART_MISO
+Added Pin To Net: NetName=UART_MOSI Pin=U1-6
+Added Net: Name=UART_MOSI

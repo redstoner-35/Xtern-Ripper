@@ -1,0 +1,4 @@
+Added Component: Designator=R16(0402_R)
+Added Pin To Net: NetName=RXD Pin=R16-1
+Added Pin To Net: NetName=3V3 Pin=R16-2
+Added Member To Class: ClassName=main Member=Component R16 10K¦¸ (1002) ¡À1%

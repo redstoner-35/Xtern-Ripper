@@ -1,0 +1,8 @@
+Added Component: Designator=R8(0603_R)
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=EN Pin=U1-12
+Added Net: Name=EN
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=U1-4
+Added Net: Name=NetR8_2
+Added Member To Class: ClassName=main Member=Component R8 100K¦¸ (1003) ¡À1% B4100-NTC

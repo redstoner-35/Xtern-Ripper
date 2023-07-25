@@ -1,0 +1,32 @@
+Added Component: Designator=R1(0402_R)
+Added Component: Designator=R2(0402_R)
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-A1
+Added Pin To Net: NetName=GND Pin=J1-A12
+Added Pin To Net: NetName=GND Pin=J1-B1
+Added Pin To Net: NetName=GND Pin=J1-B12
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=5V Pin=J1-A4
+Added Pin To Net: NetName=5V Pin=J1-A9
+Added Pin To Net: NetName=5V Pin=J1-B4
+Added Pin To Net: NetName=5V Pin=J1-B9
+Added Net: Name=5V
+Added Pin To Net: NetName=NetJ1_A5 Pin=J1-A5
+Added Pin To Net: NetName=NetJ1_A5 Pin=R1-2
+Added Net: Name=NetJ1_A5
+Added Pin To Net: NetName=NetJ1_B5 Pin=J1-B5
+Added Pin To Net: NetName=NetJ1_B5 Pin=R2-2
+Added Net: Name=NetJ1_B5
+Added Pin To Net: NetName=USB_N Pin=J1-A7
+Added Pin To Net: NetName=USB_N Pin=J1-B7
+Added Net: Name=USB_N
+Added Pin To Net: NetName=USB_P Pin=J1-A6
+Added Pin To Net: NetName=USB_P Pin=J1-B6
+Added Net: Name=USB_P
+Added Differential Pair: Name=USB
+Added Member To Class: ClassName=main Member=Component R1 5.1K¦¸ (5101) ¡À1%
+Added Member To Class: ClassName=main Member=Component R2 5.1K¦¸ (5101) ¡À1%

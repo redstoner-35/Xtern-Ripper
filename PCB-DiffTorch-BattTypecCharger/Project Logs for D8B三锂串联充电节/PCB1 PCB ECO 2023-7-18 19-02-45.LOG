@@ -1,0 +1,22 @@
+Added Component: Designator=C11(0603_C)
+Added Component: Designator=C12(0603_C)
+Added Component: Designator=U2(DBV0005A_N)
+Added Component: Designator=U3(DBV0005A_N)
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=3V3 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=3V3 Pin=C12-2
+Added Pin To Net: NetName=3V3 Pin=U1-12
+Added Pin To Net: NetName=CC Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=3V3 Pin=U2-5
+Added Pin To Net: NetName=BATTSTAT Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=3V3 Pin=U3-5
+Added Pin To Net: NetName=NetU2_4 Pin=U2-4
+Added Pin To Net: NetName=NetU2_4 Pin=U3-1
+Added Net: Name=NetU2_4
+Added Member To Class: ClassName=main Member=Component C11 100nF (104) 10% 50V
+Added Member To Class: ClassName=main Member=Component C12 100nF (104) 10% 50V
+Added Member To Class: ClassName=main Member=Component U2 SN74LVC1G14DBVR
+Added Member To Class: ClassName=main Member=Component U3 SN74LVC1G125DBVR

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=XTALIN Pin=U1-16
+Added Net: Name=XTALIN
+Added Pin To Net: NetName=XTALOUT Pin=U1-17
+Added Net: Name=XTALOUT

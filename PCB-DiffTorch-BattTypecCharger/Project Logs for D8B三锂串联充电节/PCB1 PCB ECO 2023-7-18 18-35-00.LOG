@@ -1,0 +1,26 @@
+Added Component: Designator=R4(0603_R)
+Added Component: Designator=R5(0603_R)
+Added Component: Designator=R6(0603_R)
+Added Component: Designator=R7(0603_R)
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=USBDN Pin=U1-1
+Added Pin To Net: NetName=USBDP Pin=U1-2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U1-7
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U1-9
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U1-11
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=U1-10
+Added Net: Name=NetR7_2
+Added Member To Class: ClassName=main Member=Component R4 120K次 (1203) ㊣1%
+Added Member To Class: ClassName=main Member=Component R5 68K次 (6802) ㊣1%
+Added Member To Class: ClassName=main Member=Component R6 75K次 (7502) ㊣1%
+Added Member To Class: ClassName=main Member=Component R7 1K次 (1001) ㊣1%

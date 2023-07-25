@@ -1,0 +1,27 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [D8B三锂串联充电节.PrjPcb]
+   Generated File[PCB1_Copper_Signal_Top.gbr]
+   Generated File[PCB1_Copper_Signal_Bot.gbr]
+   Generated File[PCB1_Pads_Bot.gbr]
+   Generated File[PCB1_Pads_Top.gbr]
+   Generated File[PCB1_Legend_Top.gbr]
+   Generated File[PCB1_Soldermask_Top.gbr]
+   Generated File[PCB1_Paste_Bot.gbr]
+   Generated File[PCB1_Legend_Bot.gbr]
+   Generated File[PCB1_Soldermask_Bot.gbr]
+   Generated File[PCB1_Paste_Top.gbr]
+   Generated File[PCB1_Keep-out.gbr]
+   Generated File[PCB1_NPTH_Drill.gbr]
+   Generated File[PCB1_PTH_Drill.gbr]
+   Generated File[PCB1_Drawing_1.gbr]
+   Generated File[PCB1_Drillmap_1.gbr]
+   Generated File[PCB1.RUL]
+   Generated File[PCB1.EXTREP]
+   Generated File[PCB1.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 20:08:49 On 2023/7/18

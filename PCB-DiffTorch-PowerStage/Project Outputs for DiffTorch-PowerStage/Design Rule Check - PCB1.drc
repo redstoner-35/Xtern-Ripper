@@ -1,0 +1,1435 @@
+Protel Design System Design Rule Check
+PCB File : D:\Projects\Union-Projects\DiffTorch-Extreme\PCB-DiffTorch-PowerStage\PCB1.PcbDoc
+Date     : 2023/7/17
+Time     : 11:29:49
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Polygon Region (0 hole(s)) Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Polygon Region (0 hole(s)) Bottom Overlay
+Rule Violations :2
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Text "DF3741" (3705mil,2890mil)  Top Overlay and 
+                     Arc (3884.139mil,2942.2mil)  Top Overlay
+   Violation between Text "LD+" (4325mil,3125mil)  Top Overlay and 
+                     Arc (4260.354mil,3140.315mil)  Top Overlay
+   Violation between Text "V1.0" (3515mil,2920mil)  Top Overlay and 
+                     Arc (3925.787mil,3227.205mil)  Top Overlay
+   Violation between Text "LD+" (4325mil,3125mil)  Top Overlay and 
+                     Arc (4314.724mil,3103.976mil)  Top Overlay
+   Violation between Text "Xtern Ripper" (3730mil,3230mil)  Bottom Overlay and 
+                     Arc (3925.787mil,3227.205mil)  Bottom Overlay
+   Violation between Text "DF3741" (3705mil,2890mil)  Top Overlay and 
+                     Track (3785mil,2940mil)(3865mil,2940mil)  Top Overlay
+   Violation between Text "V1.0" (3515mil,2920mil)  Top Overlay and 
+                     Track (3564.567mil,2814.567mil)(3564.567mil,2935.433mil)  Top Overlay
+   Violation between Text "V1.0" (3515mil,2920mil)  Top Overlay and 
+                     Track (3564.567mil,2814.567mil)(3685.433mil,2814.567mil)  Top Overlay
+   Violation between Text "LD+" (4325mil,3125mil)  Top Overlay and 
+                     Track (4276.102mil,3140.315mil)(4276.102mil,3169.252mil)  Top Overlay
+   Violation between Text "LD+" (4325mil,3125mil)  Top Overlay and 
+                     Track (4296.811mil,3112.638mil)(4314.527mil,3112.638mil)  Top Overlay
+   Violation between Text "LD+" (4325mil,3125mil)  Top Overlay and 
+                     Track (4295mil,3240mil)(4305mil,3230mil)  Top Overlay
+   Violation between Text "Bot" (3990mil,2890mil)  Top Overlay and 
+                     Track (4079.567mil,2774.567mil)(4079.567mil,2945.433mil)  Top Overlay
+   Violation between Text "Flash" (4415mil,3065mil)  Bottom Overlay and 
+                     Track (4206.462mil,3067.285mil)(4233.037mil,3067.285mil)  Bottom Overlay
+   Violation between Text "Flash" (4415mil,3065mil)  Bottom Overlay and 
+                     Track (4233.037mil,3067.285mil)(4233.037mil,3112.56mil)  Bottom Overlay
+   Violation between Text "V+" (3535mil,3070mil)  Bottom Overlay and 
+                     Track (3470mil,3080mil)(3550mil,3080mil)  Bottom Overlay
+   Violation between Text "V+" (3535mil,3070mil)  Bottom Overlay and 
+                     Track (3470mil,2965mil)(3550mil,2965mil)  Bottom Overlay
+   Violation between Text "V+" (3535mil,3070mil)  Bottom Overlay and 
+                     Track (3470mil,2965mil)(3470mil,3080mil)  Bottom Overlay
+   Violation between Text "DiffTorch" (4055mil,2940mil)  Bottom Overlay and 
+                     Text "Project:" (4010mil,3015mil)  Bottom Overlay
+   Violation between Text "Light" (4415mil,3010mil)  Bottom Overlay and 
+                     Text "Flash" (4415mil,3065mil)  Bottom Overlay
+Rule Violations :19
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+   Violation between Arc (3520.315mil,3589.646mil)  Top Overlay and 
+                     Pad C7-1(3534.685mil,3605mil)  Component Side
+   Violation between Arc (3520.315mil,3620.354mil)  Top Overlay and 
+                     Pad C7-1(3534.685mil,3605mil)  Component Side
+   Violation between Arc (3570.118mil,3029.291mil)  Top Overlay and 
+                     Pad U8-4(3590.709mil,3015.59mil)  Component Side
+   Violation between Arc (3674.724mil,3078.976mil)  Top Overlay and 
+                     Pad C30-1(3661.732mil,3065mil)  Component Side
+   Violation between Arc (3674.724mil,3051.024mil)  Top Overlay and 
+                     Pad C30-1(3661.732mil,3065mil)  Component Side
+   Violation between Arc (3615.276mil,3078.976mil)  Top Overlay and 
+                     Pad C30-2(3628.268mil,3065mil)  Component Side
+   Violation between Arc (3615.276mil,3051.024mil)  Top Overlay and 
+                     Pad C30-2(3628.268mil,3065mil)  Component Side
+   Violation between Arc (3884.139mil,2942.2mil)  Top Overlay and 
+                     Pad U4-1(3863.976mil,2955.472mil)  Component Side
+   Violation between Arc (3716.024mil,3014.724mil)  Top Overlay and 
+                     Pad C22-1(3730mil,3001.732mil)  Component Side
+   Violation between Arc (3716.024mil,3014.724mil)  Top Overlay and 
+                     Pad U8-3(3679.291mil,3015.59mil)  Component Side
+   Violation between Arc (3743.976mil,3014.724mil)  Top Overlay and 
+                     Pad C22-1(3730mil,3001.732mil)  Component Side
+   Violation between Arc (3716.024mil,2955.276mil)  Top Overlay and 
+                     Pad C22-2(3730mil,2968.268mil)  Component Side
+   Violation between Arc (3716.024mil,2955.276mil)  Top Overlay and 
+                     Pad U8-1(3679.291mil,2964.409mil)  Component Side
+   Violation between Arc (3743.976mil,2955.276mil)  Top Overlay and 
+                     Pad C22-2(3730mil,2968.268mil)  Component Side
+   Violation between Arc (3964.724mil,2958.976mil)  Top Overlay and 
+                     Pad C21-1(3951.732mil,2945mil)  Component Side
+   Violation between Arc (3964.724mil,2931.024mil)  Top Overlay and 
+                     Pad C21-1(3951.732mil,2945mil)  Component Side
+   Violation between Arc (3905.276mil,2958.976mil)  Top Overlay and 
+                     Pad C21-2(3918.268mil,2945mil)  Component Side
+   Violation between Arc (3905.276mil,2931.024mil)  Top Overlay and 
+                     Pad C21-2(3918.268mil,2945mil)  Component Side
+   Violation between Arc (3599.724mil,3338.976mil)  Top Overlay and 
+                     Pad U2-1(3614.725mil,3361.65mil)  Component Side
+   Violation between Arc (3599.724mil,3338.976mil)  Top Overlay and 
+                     Pad C26-1(3586.732mil,3325mil)  Component Side
+   Violation between Arc (3599.724mil,3311.024mil)  Top Overlay and 
+                     Pad C26-1(3586.732mil,3325mil)  Component Side
+   Violation between Arc (3540.276mil,3338.976mil)  Top Overlay and 
+                     Pad C26-2(3553.268mil,3325mil)  Component Side
+   Violation between Arc (3540.276mil,3311.024mil)  Top Overlay and 
+                     Pad C26-2(3553.268mil,3325mil)  Component Side
+   Violation between Arc (3540.276mil,3311.024mil)  Top Overlay and 
+                     Pad U1-17(3549.685mil,3270.709mil)  Component Side
+   Violation between Arc (3540.276mil,3311.024mil)  Top Overlay and 
+                     Pad U1-18(3530mil,3270.709mil)  Component Side
+   Violation between Arc (3458.976mil,3020.276mil)  Top Overlay and 
+                     Pad U6-3(3489.41mil,3029.291mil)  Component Side
+   Violation between Arc (3458.976mil,3020.276mil)  Top Overlay and 
+                     Pad C18-1(3445mil,3033.268mil)  Component Side
+   Violation between Arc (3431.024mil,3020.276mil)  Top Overlay and 
+                     Pad R6-2(3400mil,3033.268mil)  Component Side
+   Violation between Arc (3431.024mil,3020.276mil)  Top Overlay and 
+                     Pad C18-1(3445mil,3033.268mil)  Component Side
+   Violation between Arc (3458.976mil,3079.724mil)  Top Overlay and 
+                     Pad C18-2(3445mil,3066.732mil)  Component Side
+   Violation between Arc (3431.024mil,3079.724mil)  Top Overlay and 
+                     Pad R6-1(3400mil,3066.732mil)  Component Side
+   Violation between Arc (3431.024mil,3079.724mil)  Top Overlay and 
+                     Pad C18-2(3445mil,3066.732mil)  Component Side
+   Violation between Arc (3709.724mil,3248.976mil)  Top Overlay and 
+                     Pad C10-1(3696.732mil,3235mil)  Component Side
+   Violation between Arc (3709.724mil,3221.024mil)  Top Overlay and 
+                     Pad C10-1(3696.732mil,3235mil)  Component Side
+   Violation between Arc (3650.276mil,3248.976mil)  Top Overlay and 
+                     Pad C10-2(3663.268mil,3235mil)  Component Side
+   Violation between Arc (3650.276mil,3221.024mil)  Top Overlay and 
+                     Pad C10-2(3663.268mil,3235mil)  Component Side
+   Violation between Arc (3650.276mil,3221.024mil)  Top Overlay and 
+                     Pad U1-14(3610.709mil,3209.685mil)  Component Side
+   Violation between Arc (3650.276mil,3221.024mil)  Top Overlay and 
+                     Pad U1-15(3610.709mil,3229.37mil)  Component Side
+   Violation between Arc (3365.276mil,3311.024mil)  Top Overlay and 
+                     Pad C1-1(3378.268mil,3325mil)  Component Side
+   Violation between Arc (3365.276mil,3338.976mil)  Top Overlay and 
+                     Pad C1-1(3378.268mil,3325mil)  Component Side
+   Violation between Arc (3424.724mil,3311.024mil)  Top Overlay and 
+                     Pad C1-2(3411.732mil,3325mil)  Component Side
+   Violation between Arc (3424.724mil,3338.976mil)  Top Overlay and 
+                     Pad C1-2(3411.732mil,3325mil)  Component Side
+   Violation between Arc (3350.276mil,3196.024mil)  Top Overlay and 
+                     Pad C9-1(3363.268mil,3210mil)  Component Side
+   Violation between Arc (3350.276mil,3223.976mil)  Top Overlay and 
+                     Pad C9-1(3363.268mil,3210mil)  Component Side
+   Violation between Arc (3409.724mil,3196.024mil)  Top Overlay and 
+                     Pad C9-2(3396.732mil,3210mil)  Component Side
+   Violation between Arc (3409.724mil,3196.024mil)  Top Overlay and 
+                     Pad U1-3(3449.291mil,3190mil)  Component Side
+   Violation between Arc (3409.724mil,3223.976mil)  Top Overlay and 
+                     Pad C9-2(3396.732mil,3210mil)  Component Side
+   Violation between Arc (3409.724mil,3223.976mil)  Top Overlay and 
+                     Pad U1-1(3449.291mil,3229.37mil)  Component Side
+   Violation between Arc (3455.276mil,3311.024mil)  Top Overlay and 
+                     Pad C8-1(3468.268mil,3325mil)  Component Side
+   Violation between Arc (3455.276mil,3338.976mil)  Top Overlay and 
+                     Pad C8-1(3468.268mil,3325mil)  Component Side
+   Violation between Arc (3514.724mil,3311.024mil)  Top Overlay and 
+                     Pad C8-2(3501.732mil,3325mil)  Component Side
+   Violation between Arc (3514.724mil,3311.024mil)  Top Overlay and 
+                     Pad U1-19(3510.315mil,3270.709mil)  Component Side
+   Violation between Arc (3514.724mil,3338.976mil)  Top Overlay and 
+                     Pad C8-2(3501.732mil,3325mil)  Component Side
+   Violation between Arc (3458.976mil,2925.276mil)  Top Overlay and 
+                     Pad U6-4(3489.41mil,2940.709mil)  Component Side
+   Violation between Arc (3458.976mil,2925.276mil)  Top Overlay and 
+                     Pad C25-1(3445mil,2938.268mil)  Component Side
+   Violation between Arc (3431.024mil,2925.276mil)  Top Overlay and 
+                     Pad C25-1(3445mil,2938.268mil)  Component Side
+   Violation between Arc (3458.976mil,2984.724mil)  Top Overlay and 
+                     Pad C25-2(3445mil,2971.732mil)  Component Side
+   Violation between Arc (3431.024mil,2984.724mil)  Top Overlay and 
+                     Pad C25-2(3445mil,2971.732mil)  Component Side
+   Violation between Arc (4403.976mil,2915.276mil)  Top Overlay and 
+                     Pad C24-1(4390mil,2928.268mil)  Component Side
+   Violation between Arc (4376.024mil,2915.276mil)  Top Overlay and 
+                     Pad C24-1(4390mil,2928.268mil)  Component Side
+   Violation between Arc (4376.024mil,2915.276mil)  Top Overlay and 
+                     Pad U5-2(4337.087mil,2907.205mil)  Component Side
+   Violation between Arc (4376.024mil,2915.276mil)  Top Overlay and 
+                     Pad U5-3(4337.087mil,2932.795mil)  Component Side
+   Violation between Arc (4403.976mil,2974.724mil)  Top Overlay and 
+                     Pad C24-2(4390mil,2961.732mil)  Component Side
+   Violation between Arc (4376.024mil,2974.724mil)  Top Overlay and 
+                     Pad C24-2(4390mil,2961.732mil)  Component Side
+   Violation between Arc (4376.024mil,2974.724mil)  Top Overlay and 
+                     Pad U5-4(4337.087mil,2958.386mil)  Component Side
+   Violation between Arc (4479.724mil,3273.976mil)  Top Overlay and 
+                     Pad C16-1(4466.732mil,3260mil)  Component Side
+   Violation between Arc (4479.724mil,3246.024mil)  Top Overlay and 
+                     Pad C16-1(4466.732mil,3260mil)  Component Side
+   Violation between Arc (4420.276mil,3273.976mil)  Top Overlay and 
+                     Pad C16-2(4433.268mil,3260mil)  Component Side
+   Violation between Arc (4420.276mil,3246.024mil)  Top Overlay and 
+                     Pad C16-2(4433.268mil,3260mil)  Component Side
+   Violation between Arc (4444.685mil,3060.354mil)  Top Overlay and 
+                     Pad C17-2(4430.315mil,3045mil)  Component Side
+   Violation between Arc (4444.685mil,3060.354mil)  Top Overlay and 
+                     Pad U3-5(4437.402mil,3107.756mil)  Component Side
+   Violation between Arc (4444.685mil,3029.646mil)  Top Overlay and 
+                     Pad C17-2(4430.315mil,3045mil)  Component Side
+   Violation between Arc (4355.315mil,3029.646mil)  Top Overlay and 
+                     Pad C17-1(4369.685mil,3045mil)  Component Side
+   Violation between Arc (4355.315mil,3060.354mil)  Top Overlay and 
+                     Pad C17-1(4369.685mil,3045mil)  Component Side
+   Violation between Arc (4355.315mil,3060.354mil)  Top Overlay and 
+                     Pad U3-4(4362.599mil,3107.756mil)  Component Side
+   Violation between Arc (4229.646mil,3229.685mil)  Top Overlay and 
+                     Pad C15-2(4245mil,3215.315mil)  Component Side
+   Violation between Arc (4260.354mil,3229.685mil)  Top Overlay and 
+                     Pad C15-2(4245mil,3215.315mil)  Component Side
+   Violation between Arc (4260.354mil,3140.315mil)  Top Overlay and 
+                     Pad C15-1(4245mil,3154.685mil)  Component Side
+   Violation between Arc (4229.646mil,3140.315mil)  Top Overlay and 
+                     Pad C15-1(4245mil,3154.685mil)  Component Side
+   Violation between Arc (3630.276mil,3301.024mil)  Top Overlay and 
+                     Pad C14-1(3643.268mil,3315mil)  Component Side
+   Violation between Arc (3630.276mil,3328.976mil)  Top Overlay and 
+                     Pad C14-1(3643.268mil,3315mil)  Component Side
+   Violation between Arc (3630.276mil,3328.976mil)  Top Overlay and 
+                     Pad U2-2(3632.445mil,3361.65mil)  Component Side
+   Violation between Arc (3689.724mil,3301.024mil)  Top Overlay and 
+                     Pad C14-2(3676.732mil,3315mil)  Component Side
+   Violation between Arc (3689.724mil,3328.976mil)  Top Overlay and 
+                     Pad U2-6(3703.305mil,3361.65mil)  Component Side
+   Violation between Arc (3689.724mil,3328.976mil)  Top Overlay and 
+                     Pad C14-2(3676.732mil,3315mil)  Component Side
+   Violation between Arc (3689.724mil,3328.976mil)  Top Overlay and 
+                     Pad U2-5(3685.595mil,3361.65mil)  Component Side
+   Violation between Arc (3720.276mil,3301.024mil)  Top Overlay and 
+                     Pad C13-1(3733.268mil,3315mil)  Component Side
+   Violation between Arc (3720.276mil,3328.976mil)  Top Overlay and 
+                     Pad C13-1(3733.268mil,3315mil)  Component Side
+   Violation between Arc (3779.724mil,3301.024mil)  Top Overlay and 
+                     Pad C13-2(3766.732mil,3315mil)  Component Side
+   Violation between Arc (3779.724mil,3328.976mil)  Top Overlay and 
+                     Pad U2-9(3780.865mil,3361.65mil)  Component Side
+   Violation between Arc (3779.724mil,3328.976mil)  Top Overlay and 
+                     Pad C13-2(3766.732mil,3315mil)  Component Side
+   Violation between Arc (4060.276mil,3076.024mil)  Top Overlay and 
+                     Pad C11-1(4073.268mil,3090mil)  Component Side
+   Violation between Arc (4060.276mil,3103.976mil)  Top Overlay and 
+                     Pad C11-1(4073.268mil,3090mil)  Component Side
+   Violation between Arc (4119.724mil,3076.024mil)  Top Overlay and 
+                     Pad C11-2(4106.732mil,3090mil)  Component Side
+   Violation between Arc (4119.724mil,3103.976mil)  Top Overlay and 
+                     Pad C11-2(4106.732mil,3090mil)  Component Side
+   Violation between Arc (4119.724mil,3103.976mil)  Top Overlay and 
+                     Pad U13-2(4140mil,3142.756mil)  Component Side
+   Violation between Arc (4119.724mil,3103.976mil)  Top Overlay and 
+                     Pad U13-1(4102.598mil,3142.756mil)  Component Side
+   Violation between Arc (3548.976mil,3495.276mil)  Top Overlay and 
+                     Pad C6-1(3535mil,3508.268mil)  Component Side
+   Violation between Arc (3521.024mil,3495.276mil)  Top Overlay and 
+                     Pad C6-1(3535mil,3508.268mil)  Component Side
+   Violation between Arc (3548.976mil,3554.724mil)  Top Overlay and 
+                     Pad C6-2(3535mil,3541.732mil)  Component Side
+   Violation between Arc (3521.024mil,3554.724mil)  Top Overlay and 
+                     Pad C6-2(3535mil,3541.732mil)  Component Side
+   Violation between Arc (3925.787mil,3227.205mil)  Top Overlay and 
+                     Pad R6-2(3400mil,3033.268mil)  Component Side
+   Violation between Arc (3925.787mil,3227.205mil)  Top Overlay and 
+                     Pad C25-1(3445mil,2938.268mil)  Component Side
+   Violation between Arc (3925.787mil,3227.205mil)  Top Overlay and 
+                     Pad R3-1(3363.268mil,3270mil)  Component Side
+   Violation between Arc (3925.787mil,3227.205mil)  Top Overlay and 
+                     Pad C28-1(4455mil,3355mil)  Component Side
+   Violation between Arc (4043.976mil,2985.276mil)  Top Overlay and 
+                     Pad C23-2(4030mil,2998.268mil)  Component Side
+   Violation between Arc (4016.024mil,2985.276mil)  Top Overlay and 
+                     Pad C23-2(4030mil,2998.268mil)  Component Side
+   Violation between Arc (4043.976mil,3044.724mil)  Top Overlay and 
+                     Pad C23-1(4030mil,3031.732mil)  Component Side
+   Violation between Arc (4016.024mil,3044.724mil)  Top Overlay and 
+                     Pad C23-1(4030mil,3031.732mil)  Component Side
+   Violation between Arc (4230.276mil,2806.024mil)  Top Overlay and 
+                     Pad C31-2(4243.268mil,2820mil)  Component Side
+   Violation between Arc (4230.276mil,2833.976mil)  Top Overlay and 
+                     Pad C31-2(4243.268mil,2820mil)  Component Side
+   Violation between Arc (4289.724mil,2806.024mil)  Top Overlay and 
+                     Pad C31-1(4276.732mil,2820mil)  Component Side
+   Violation between Arc (4289.724mil,2833.976mil)  Top Overlay and 
+                     Pad C31-1(4276.732mil,2820mil)  Component Side
+   Violation between Arc (4255.276mil,3076.024mil)  Top Overlay and 
+                     Pad C32-2(4268.268mil,3090mil)  Component Side
+   Violation between Arc (4255.276mil,3103.976mil)  Top Overlay and 
+                     Pad C32-2(4268.268mil,3090mil)  Component Side
+   Violation between Arc (4314.724mil,3076.024mil)  Top Overlay and 
+                     Pad C32-1(4301.732mil,3090mil)  Component Side
+   Violation between Arc (4314.724mil,3103.976mil)  Top Overlay and 
+                     Pad C32-1(4301.732mil,3090mil)  Component Side
+   Violation between Arc (3520.276mil,3468.976mil)  Bottom Overlay and 
+                     Pad C29-1(3533.268mil,3455mil)  Solder Side
+   Violation between Arc (3520.276mil,3441.024mil)  Bottom Overlay and 
+                     Pad C29-1(3533.268mil,3455mil)  Solder Side
+   Violation between Arc (3579.724mil,3468.976mil)  Bottom Overlay and 
+                     Pad C29-2(3566.732mil,3455mil)  Solder Side
+   Violation between Arc (3579.724mil,3441.024mil)  Bottom Overlay and 
+                     Pad C29-2(3566.732mil,3455mil)  Solder Side
+   Violation between Arc (3710.276mil,3153.976mil)  Bottom Overlay and 
+                     Pad C27-1(3723.268mil,3140mil)  Solder Side
+   Violation between Arc (3710.276mil,3126.024mil)  Bottom Overlay and 
+                     Pad U7-2(3705mil,3089.291mil)  Solder Side
+   Violation between Arc (3710.276mil,3126.024mil)  Bottom Overlay and 
+                     Pad C27-1(3723.268mil,3140mil)  Solder Side
+   Violation between Arc (3769.724mil,3153.976mil)  Bottom Overlay and 
+                     Pad C27-2(3756.732mil,3140mil)  Solder Side
+   Violation between Arc (3769.724mil,3153.976mil)  Bottom Overlay and 
+                     Pad Free-0(3925.787mil,3227.205mil)  Solder Side
+   Violation between Arc (3769.724mil,3126.024mil)  Bottom Overlay and 
+                     Pad C27-2(3756.732mil,3140mil)  Solder Side
+   Violation between Track (3504.567mil,3589.646mil)(3504.567mil,3620.354mil)  Top Overlay and 
+                     Pad C7-1(3534.685mil,3605mil)  Component Side
+   Violation between Track (3520.315mil,3573.898mil)(3549.252mil,3573.898mil)  Top Overlay and 
+                     Pad C7-1(3534.685mil,3605mil)  Component Side
+   Violation between Track (3520.315mil,3636.102mil)(3549.252mil,3636.102mil)  Top Overlay and 
+                     Pad C7-1(3534.685mil,3605mil)  Component Side
+   Violation between Text "V1.0" (3515mil,2920mil)  Top Overlay and 
+                     Pad U6-6(3540.591mil,2940.709mil)  Component Side
+   Violation between Track (3467.638mil,2925.473mil)(3467.638mil,2943.189mil)  Top Overlay and 
+                     Pad U6-4(3489.41mil,2940.709mil)  Component Side
+   Violation between Track (3467.638mil,3020.473mil)(3467.638mil,3038.189mil)  Top Overlay and 
+                     Pad U6-3(3489.41mil,3029.291mil)  Component Side
+   Violation between Area Fill (3535mil,3355mil) (3565mil,3380mil)  Top Overlay and 
+                     Pad Q1-4(3509.291mil,3394.41mil)  Component Side
+   Violation between Track (3707.362mil,2955.472mil)(3707.362mil,2973.189mil)  Top Overlay and 
+                     Pad U8-1(3679.291mil,2964.409mil)  Component Side
+   Violation between Track (3707.362mil,2996.811mil)(3707.362mil,3014.527mil)  Top Overlay and 
+                     Pad U8-2(3679.291mil,2990mil)  Component Side
+   Violation between Track (3707.362mil,2955.472mil)(3707.362mil,2973.189mil)  Top Overlay and 
+                     Pad U8-2(3679.291mil,2990mil)  Component Side
+   Violation between Track (3707.362mil,2996.811mil)(3707.362mil,3014.527mil)  Top Overlay and 
+                     Pad U8-3(3679.291mil,3015.59mil)  Component Side
+   Violation between Track (3656.811mil,3087.638mil)(3674.527mil,3087.638mil)  Top Overlay and 
+                     Pad C30-1(3661.732mil,3065mil)  Component Side
+   Violation between Track (3656.811mil,3042.362mil)(3674.528mil,3042.362mil)  Top Overlay and 
+                     Pad C30-1(3661.732mil,3065mil)  Component Side
+   Violation between Track (3683.386mil,3051.024mil)(3683.386mil,3078.976mil)  Top Overlay and 
+                     Pad C30-1(3661.732mil,3065mil)  Component Side
+   Violation between Track (3606.614mil,3051.024mil)(3606.614mil,3078.976mil)  Top Overlay and 
+                     Pad C30-2(3628.268mil,3065mil)  Component Side
+   Violation between Track (3615.472mil,3087.638mil)(3633.189mil,3087.638mil)  Top Overlay and 
+                     Pad C30-2(3628.268mil,3065mil)  Component Side
+   Violation between Track (3615.472mil,3042.362mil)(3633.189mil,3042.362mil)  Top Overlay and 
+                     Pad C30-2(3628.268mil,3065mil)  Component Side
+   Violation between Track (3785mil,2940mil)(3865mil,2940mil)  Top Overlay and 
+                     Pad U4-1(3863.976mil,2955.472mil)  Component Side
+   Violation between Track (3785mil,3030mil)(3865mil,3030mil)  Top Overlay and 
+                     Pad U4-4(3863.976mil,3014.528mil)  Component Side
+   Violation between Track (3785mil,2940mil)(3865mil,2940mil)  Top Overlay and 
+                     Pad U4-8(3786.024mil,2955.472mil)  Component Side
+   Violation between Track (3785mil,3030mil)(3865mil,3030mil)  Top Overlay and 
+                     Pad U4-5(3786.024mil,3014.528mil)  Component Side
+   Violation between Track (3785mil,2940mil)(3865mil,2940mil)  Top Overlay and 
+                     Pad U4-9(3825mil,2985mil)  Component Side
+   Violation between Track (3785mil,3030mil)(3865mil,3030mil)  Top Overlay and 
+                     Pad U4-9(3825mil,2985mil)  Component Side
+   Violation between Track (3752.638mil,2996.811mil)(3752.638mil,3014.528mil)  Top Overlay and 
+                     Pad C22-1(3730mil,3001.732mil)  Component Side
+   Violation between Track (3707.362mil,2996.811mil)(3707.362mil,3014.527mil)  Top Overlay and 
+                     Pad C22-1(3730mil,3001.732mil)  Component Side
+   Violation between Track (3716.024mil,3023.386mil)(3743.976mil,3023.386mil)  Top Overlay and 
+                     Pad C22-1(3730mil,3001.732mil)  Component Side
+   Violation between Track (3716.024mil,2946.614mil)(3743.976mil,2946.614mil)  Top Overlay and 
+                     Pad C22-2(3730mil,2968.268mil)  Component Side
+   Violation between Track (3752.638mil,2955.472mil)(3752.638mil,2973.189mil)  Top Overlay and 
+                     Pad C22-2(3730mil,2968.268mil)  Component Side
+   Violation between Track (3707.362mil,2955.472mil)(3707.362mil,2973.189mil)  Top Overlay and 
+                     Pad C22-2(3730mil,2968.268mil)  Component Side
+   Violation between Track (3946.811mil,2922.362mil)(3964.528mil,2922.362mil)  Top Overlay and 
+                     Pad C21-1(3951.732mil,2945mil)  Component Side
+   Violation between Track (3946.811mil,2967.638mil)(3964.527mil,2967.638mil)  Top Overlay and 
+                     Pad C21-1(3951.732mil,2945mil)  Component Side
+   Violation between Track (3973.386mil,2931.024mil)(3973.386mil,2958.976mil)  Top Overlay and 
+                     Pad C21-1(3951.732mil,2945mil)  Component Side
+   Violation between Track (3896.614mil,2931.024mil)(3896.614mil,2958.976mil)  Top Overlay and 
+                     Pad C21-2(3918.268mil,2945mil)  Component Side
+   Violation between Track (3905.472mil,2922.362mil)(3923.189mil,2922.362mil)  Top Overlay and 
+                     Pad C21-2(3918.268mil,2945mil)  Component Side
+   Violation between Track (3905.472mil,2967.638mil)(3923.189mil,2967.638mil)  Top Overlay and 
+                     Pad C21-2(3918.268mil,2945mil)  Component Side
+   Violation between Track (3457.362mil,3563.386mil)(3502.638mil,3563.386mil)  Top Overlay and 
+                     Pad R14-1(3480mil,3541.732mil)  Component Side
+   Violation between Track (3502.638mil,3536.811mil)(3502.638mil,3563.386mil)  Top Overlay and 
+                     Pad R14-1(3480mil,3541.732mil)  Component Side
+   Violation between Track (3457.362mil,3536.811mil)(3457.362mil,3563.386mil)  Top Overlay and 
+                     Pad R14-1(3480mil,3541.732mil)  Component Side
+   Violation between Track (3457.362mil,3486.614mil)(3502.638mil,3486.614mil)  Top Overlay and 
+                     Pad R14-2(3480mil,3508.268mil)  Component Side
+   Violation between Track (3502.638mil,3486.614mil)(3502.638mil,3513.189mil)  Top Overlay and 
+                     Pad R14-2(3480mil,3508.268mil)  Component Side
+   Violation between Track (3457.362mil,3486.614mil)(3457.362mil,3513.189mil)  Top Overlay and 
+                     Pad R14-2(3480mil,3508.268mil)  Component Side
+   Violation between Track (3608.386mil,3311.024mil)(3608.386mil,3338.976mil)  Top Overlay and 
+                     Pad C26-1(3586.732mil,3325mil)  Component Side
+   Violation between Track (3581.811mil,3302.362mil)(3599.528mil,3302.362mil)  Top Overlay and 
+                     Pad C26-1(3586.732mil,3325mil)  Component Side
+   Violation between Track (3581.811mil,3347.638mil)(3599.527mil,3347.638mil)  Top Overlay and 
+                     Pad C26-1(3586.732mil,3325mil)  Component Side
+   Violation between Track (3531.614mil,3311.024mil)(3531.614mil,3338.976mil)  Top Overlay and 
+                     Pad C26-2(3553.268mil,3325mil)  Component Side
+   Violation between Track (3540.472mil,3302.362mil)(3558.189mil,3302.362mil)  Top Overlay and 
+                     Pad C26-2(3553.268mil,3325mil)  Component Side
+   Violation between Track (3540.472mil,3347.638mil)(3558.189mil,3347.638mil)  Top Overlay and 
+                     Pad C26-2(3553.268mil,3325mil)  Component Side
+   Violation between Track (3402.638mil,3101.614mil)(3402.638mil,3128.189mil)  Top Overlay and 
+                     Pad R5-1(3380mil,3123.268mil)  Component Side
+   Violation between Track (3357.362mil,3101.614mil)(3402.638mil,3101.614mil)  Top Overlay and 
+                     Pad R5-1(3380mil,3123.268mil)  Component Side
+   Violation between Track (3357.362mil,3101.614mil)(3357.362mil,3128.189mil)  Top Overlay and 
+                     Pad R5-1(3380mil,3123.268mil)  Component Side
+   Violation between Track (3402.638mil,3151.811mil)(3402.638mil,3178.386mil)  Top Overlay and 
+                     Pad R5-2(3380mil,3156.732mil)  Component Side
+   Violation between Track (3357.362mil,3178.386mil)(3402.638mil,3178.386mil)  Top Overlay and 
+                     Pad R5-2(3380mil,3156.732mil)  Component Side
+   Violation between Track (3357.362mil,3151.811mil)(3357.362mil,3178.386mil)  Top Overlay and 
+                     Pad R5-2(3380mil,3156.732mil)  Component Side
+   Violation between Track (3422.362mil,3061.811mil)(3422.362mil,3079.528mil)  Top Overlay and 
+                     Pad R6-1(3400mil,3066.732mil)  Component Side
+   Violation between Track (3377.362mil,3088.386mil)(3422.638mil,3088.386mil)  Top Overlay and 
+                     Pad R6-1(3400mil,3066.732mil)  Component Side
+   Violation between Track (3422.638mil,3061.811mil)(3422.638mil,3088.386mil)  Top Overlay and 
+                     Pad R6-1(3400mil,3066.732mil)  Component Side
+   Violation between Track (3377.362mil,3061.811mil)(3377.362mil,3088.386mil)  Top Overlay and 
+                     Pad R6-1(3400mil,3066.732mil)  Component Side
+   Violation between Track (3377.362mil,3011.614mil)(3422.638mil,3011.614mil)  Top Overlay and 
+                     Pad R6-2(3400mil,3033.268mil)  Component Side
+   Violation between Track (3422.362mil,3020.472mil)(3422.362mil,3038.189mil)  Top Overlay and 
+                     Pad R6-2(3400mil,3033.268mil)  Component Side
+   Violation between Track (3422.638mil,3011.614mil)(3422.638mil,3038.189mil)  Top Overlay and 
+                     Pad R6-2(3400mil,3033.268mil)  Component Side
+   Violation between Track (3377.362mil,3011.614mil)(3377.362mil,3038.189mil)  Top Overlay and 
+                     Pad R6-2(3400mil,3033.268mil)  Component Side
+   Violation between Track (3341.614mil,3247.362mil)(3341.614mil,3292.638mil)  Top Overlay and 
+                     Pad R3-1(3363.268mil,3270mil)  Component Side
+   Violation between Track (3341.614mil,3247.362mil)(3368.189mil,3247.362mil)  Top Overlay and 
+                     Pad R3-1(3363.268mil,3270mil)  Component Side
+   Violation between Track (3341.614mil,3292.638mil)(3368.189mil,3292.638mil)  Top Overlay and 
+                     Pad R3-1(3363.268mil,3270mil)  Component Side
+   Violation between Track (3391.811mil,3247.362mil)(3418.386mil,3247.362mil)  Top Overlay and 
+                     Pad R3-2(3396.732mil,3270mil)  Component Side
+   Violation between Track (3391.811mil,3292.638mil)(3418.386mil,3292.638mil)  Top Overlay and 
+                     Pad R3-2(3396.732mil,3270mil)  Component Side
+   Violation between Track (3418.386mil,3247.362mil)(3418.386mil,3292.638mil)  Top Overlay and 
+                     Pad R3-2(3396.732mil,3270mil)  Component Side
+   Violation between Track (3377.362mil,3011.614mil)(3422.638mil,3011.614mil)  Top Overlay and 
+                     Pad C18-1(3445mil,3033.268mil)  Component Side
+   Violation between Track (3422.362mil,3020.472mil)(3422.362mil,3038.189mil)  Top Overlay and 
+                     Pad C18-1(3445mil,3033.268mil)  Component Side
+   Violation between Track (3422.638mil,3011.614mil)(3422.638mil,3038.189mil)  Top Overlay and 
+                     Pad C18-1(3445mil,3033.268mil)  Component Side
+   Violation between Track (3467.638mil,3020.473mil)(3467.638mil,3038.189mil)  Top Overlay and 
+                     Pad C18-1(3445mil,3033.268mil)  Component Side
+   Violation between Track (3431.024mil,3011.614mil)(3458.976mil,3011.614mil)  Top Overlay and 
+                     Pad C18-1(3445mil,3033.268mil)  Component Side
+   Violation between Track (3422.362mil,3061.811mil)(3422.362mil,3079.528mil)  Top Overlay and 
+                     Pad C18-2(3445mil,3066.732mil)  Component Side
+   Violation between Track (3377.362mil,3088.386mil)(3422.638mil,3088.386mil)  Top Overlay and 
+                     Pad C18-2(3445mil,3066.732mil)  Component Side
+   Violation between Track (3422.638mil,3061.811mil)(3422.638mil,3088.386mil)  Top Overlay and 
+                     Pad C18-2(3445mil,3066.732mil)  Component Side
+   Violation between Track (3467.638mil,3061.811mil)(3467.638mil,3079.528mil)  Top Overlay and 
+                     Pad C18-2(3445mil,3066.732mil)  Component Side
+   Violation between Track (3431.024mil,3088.386mil)(3458.976mil,3088.386mil)  Top Overlay and 
+                     Pad C18-2(3445mil,3066.732mil)  Component Side
+   Violation between Track (3641.614mil,3102.362mil)(3668.189mil,3102.362mil)  Top Overlay and 
+                     Pad R2-1(3663.268mil,3125mil)  Component Side
+   Violation between Track (3641.614mil,3147.638mil)(3668.189mil,3147.638mil)  Top Overlay and 
+                     Pad R2-1(3663.268mil,3125mil)  Component Side
+   Violation between Track (3641.614mil,3102.362mil)(3641.614mil,3147.638mil)  Top Overlay and 
+                     Pad R2-1(3663.268mil,3125mil)  Component Side
+   Violation between Track (3691.811mil,3102.362mil)(3718.386mil,3102.362mil)  Top Overlay and 
+                     Pad R2-2(3696.732mil,3125mil)  Component Side
+   Violation between Track (3691.811mil,3147.638mil)(3718.386mil,3147.638mil)  Top Overlay and 
+                     Pad R2-2(3696.732mil,3125mil)  Component Side
+   Violation between Track (3718.386mil,3102.362mil)(3718.386mil,3147.638mil)  Top Overlay and 
+                     Pad R2-2(3696.732mil,3125mil)  Component Side
+   Violation between Track (3691.811mil,3157.362mil)(3718.386mil,3157.362mil)  Top Overlay and 
+                     Pad R1-1(3696.732mil,3180mil)  Component Side
+   Violation between Track (3718.386mil,3157.362mil)(3718.386mil,3202.638mil)  Top Overlay and 
+                     Pad R1-1(3696.732mil,3180mil)  Component Side
+   Violation between Track (3691.811mil,3202.638mil)(3718.386mil,3202.638mil)  Top Overlay and 
+                     Pad R1-1(3696.732mil,3180mil)  Component Side
+   Violation between Track (3641.614mil,3157.362mil)(3668.189mil,3157.362mil)  Top Overlay and 
+                     Pad R1-2(3663.268mil,3180mil)  Component Side
+   Violation between Track (3641.614mil,3157.362mil)(3641.614mil,3202.638mil)  Top Overlay and 
+                     Pad R1-2(3663.268mil,3180mil)  Component Side
+   Violation between Track (3641.614mil,3202.638mil)(3668.189mil,3202.638mil)  Top Overlay and 
+                     Pad R1-2(3663.268mil,3180mil)  Component Side
+   Violation between Track (3691.811mil,3212.362mil)(3709.528mil,3212.362mil)  Top Overlay and 
+                     Pad C10-1(3696.732mil,3235mil)  Component Side
+   Violation between Track (3691.811mil,3257.638mil)(3709.527mil,3257.638mil)  Top Overlay and 
+                     Pad C10-1(3696.732mil,3235mil)  Component Side
+   Violation between Track (3718.386mil,3221.024mil)(3718.386mil,3248.976mil)  Top Overlay and 
+                     Pad C10-1(3696.732mil,3235mil)  Component Side
+   Violation between Track (3641.614mil,3221.024mil)(3641.614mil,3248.976mil)  Top Overlay and 
+                     Pad C10-2(3663.268mil,3235mil)  Component Side
+   Violation between Track (3650.472mil,3212.362mil)(3668.189mil,3212.362mil)  Top Overlay and 
+                     Pad C10-2(3663.268mil,3235mil)  Component Side
+   Violation between Track (3650.472mil,3257.638mil)(3668.189mil,3257.638mil)  Top Overlay and 
+                     Pad C10-2(3663.268mil,3235mil)  Component Side
+   Violation between Track (3365.472mil,3347.638mil)(3383.189mil,3347.638mil)  Top Overlay and 
+                     Pad C1-1(3378.268mil,3325mil)  Component Side
+   Violation between Track (3365.473mil,3302.362mil)(3383.189mil,3302.362mil)  Top Overlay and 
+                     Pad C1-1(3378.268mil,3325mil)  Component Side
+   Violation between Track (3356.614mil,3311.024mil)(3356.614mil,3338.976mil)  Top Overlay and 
+                     Pad C1-1(3378.268mil,3325mil)  Component Side
+   Violation between Track (3433.386mil,3311.024mil)(3433.386mil,3338.976mil)  Top Overlay and 
+                     Pad C1-2(3411.732mil,3325mil)  Component Side
+   Violation between Track (3406.811mil,3347.638mil)(3424.528mil,3347.638mil)  Top Overlay and 
+                     Pad C1-2(3411.732mil,3325mil)  Component Side
+   Violation between Track (3406.811mil,3302.362mil)(3424.528mil,3302.362mil)  Top Overlay and 
+                     Pad C1-2(3411.732mil,3325mil)  Component Side
+   Violation between Track (3341.614mil,3196.024mil)(3341.614mil,3223.976mil)  Top Overlay and 
+                     Pad C9-1(3363.268mil,3210mil)  Component Side
+   Violation between Track (3350.473mil,3187.362mil)(3368.189mil,3187.362mil)  Top Overlay and 
+                     Pad C9-1(3363.268mil,3210mil)  Component Side
+   Violation between Track (3350.472mil,3232.638mil)(3368.189mil,3232.638mil)  Top Overlay and 
+                     Pad C9-1(3363.268mil,3210mil)  Component Side
+   Violation between Track (3391.811mil,3187.362mil)(3409.528mil,3187.362mil)  Top Overlay and 
+                     Pad C9-2(3396.732mil,3210mil)  Component Side
+   Violation between Track (3391.811mil,3232.638mil)(3409.528mil,3232.638mil)  Top Overlay and 
+                     Pad C9-2(3396.732mil,3210mil)  Component Side
+   Violation between Track (3418.386mil,3196.024mil)(3418.386mil,3223.976mil)  Top Overlay and 
+                     Pad C9-2(3396.732mil,3210mil)  Component Side
+   Violation between Track (3455.472mil,3347.638mil)(3473.189mil,3347.638mil)  Top Overlay and 
+                     Pad C8-1(3468.268mil,3325mil)  Component Side
+   Violation between Track (3455.473mil,3302.362mil)(3473.189mil,3302.362mil)  Top Overlay and 
+                     Pad C8-1(3468.268mil,3325mil)  Component Side
+   Violation between Track (3446.614mil,3311.024mil)(3446.614mil,3338.976mil)  Top Overlay and 
+                     Pad C8-1(3468.268mil,3325mil)  Component Side
+   Violation between Track (3496.811mil,3347.638mil)(3514.528mil,3347.638mil)  Top Overlay and 
+                     Pad C8-2(3501.732mil,3325mil)  Component Side
+   Violation between Track (3496.811mil,3302.362mil)(3514.528mil,3302.362mil)  Top Overlay and 
+                     Pad C8-2(3501.732mil,3325mil)  Component Side
+   Violation between Track (3523.386mil,3311.024mil)(3523.386mil,3338.976mil)  Top Overlay and 
+                     Pad C8-2(3501.732mil,3325mil)  Component Side
+   Violation between Track (3496.811mil,3302.362mil)(3514.528mil,3302.362mil)  Top Overlay and 
+                     Pad U1-20(3490.63mil,3270.709mil)  Component Side
+   Violation between Track (3496.811mil,3302.362mil)(3514.528mil,3302.362mil)  Top Overlay and 
+                     Pad U1-19(3510.315mil,3270.709mil)  Component Side
+   Violation between Track (3540.472mil,3302.362mil)(3558.189mil,3302.362mil)  Top Overlay and 
+                     Pad U1-18(3530mil,3270.709mil)  Component Side
+   Violation between Track (3540.472mil,3302.362mil)(3558.189mil,3302.362mil)  Top Overlay and 
+                     Pad U1-17(3549.685mil,3270.709mil)  Component Side
+   Violation between Track (3540.472mil,3302.362mil)(3558.189mil,3302.362mil)  Top Overlay and 
+                     Pad U1-16(3569.37mil,3270.709mil)  Component Side
+   Violation between Track (3641.614mil,3221.024mil)(3641.614mil,3248.976mil)  Top Overlay and 
+                     Pad U1-15(3610.709mil,3229.37mil)  Component Side
+   Violation between Track (3641.614mil,3221.024mil)(3641.614mil,3248.976mil)  Top Overlay and 
+                     Pad U1-14(3610.709mil,3209.685mil)  Component Side
+   Violation between Track (3641.614mil,3157.362mil)(3641.614mil,3202.638mil)  Top Overlay and 
+                     Pad U1-14(3610.709mil,3209.685mil)  Component Side
+   Violation between Track (3641.614mil,3202.638mil)(3668.189mil,3202.638mil)  Top Overlay and 
+                     Pad U1-14(3610.709mil,3209.685mil)  Component Side
+   Violation between Track (3641.614mil,3157.362mil)(3641.614mil,3202.638mil)  Top Overlay and 
+                     Pad U1-13(3610.709mil,3190mil)  Component Side
+   Violation between Track (3641.614mil,3157.362mil)(3641.614mil,3202.638mil)  Top Overlay and 
+                     Pad U1-12(3610.709mil,3170.315mil)  Component Side
+   Violation between Track (3641.614mil,3157.362mil)(3668.189mil,3157.362mil)  Top Overlay and 
+                     Pad U1-11(3610.709mil,3150.63mil)  Component Side
+   Violation between Track (3641.614mil,3147.638mil)(3668.189mil,3147.638mil)  Top Overlay and 
+                     Pad U1-11(3610.709mil,3150.63mil)  Component Side
+   Violation between Track (3641.614mil,3157.362mil)(3641.614mil,3202.638mil)  Top Overlay and 
+                     Pad U1-11(3610.709mil,3150.63mil)  Component Side
+   Violation between Track (3641.614mil,3102.362mil)(3641.614mil,3147.638mil)  Top Overlay and 
+                     Pad U1-11(3610.709mil,3150.63mil)  Component Side
+   Violation between Track (3418.386mil,3196.024mil)(3418.386mil,3223.976mil)  Top Overlay and 
+                     Pad U1-3(3449.291mil,3190mil)  Component Side
+   Violation between Track (3418.386mil,3196.024mil)(3418.386mil,3223.976mil)  Top Overlay and 
+                     Pad U1-2(3449.291mil,3209.685mil)  Component Side
+   Violation between Track (3418.386mil,3196.024mil)(3418.386mil,3223.976mil)  Top Overlay and 
+                     Pad U1-1(3449.291mil,3229.37mil)  Component Side
+   Violation between Track (3422.362mil,2925.472mil)(3422.362mil,2943.189mil)  Top Overlay and 
+                     Pad C25-1(3445mil,2938.268mil)  Component Side
+   Violation between Track (3467.638mil,2925.473mil)(3467.638mil,2943.189mil)  Top Overlay and 
+                     Pad C25-1(3445mil,2938.268mil)  Component Side
+   Violation between Track (3431.024mil,2916.614mil)(3458.976mil,2916.614mil)  Top Overlay and 
+                     Pad C25-1(3445mil,2938.268mil)  Component Side
+   Violation between Track (3422.362mil,2966.811mil)(3422.362mil,2984.528mil)  Top Overlay and 
+                     Pad C25-2(3445mil,2971.732mil)  Component Side
+   Violation between Track (3467.638mil,2966.811mil)(3467.638mil,2984.528mil)  Top Overlay and 
+                     Pad C25-2(3445mil,2971.732mil)  Component Side
+   Violation between Track (3471.693mil,2973.189mil)(3471.693mil,2996.811mil)  Top Overlay and 
+                     Pad C25-2(3445mil,2971.732mil)  Component Side
+   Violation between Track (3431.024mil,2993.386mil)(3458.976mil,2993.386mil)  Top Overlay and 
+                     Pad C25-2(3445mil,2971.732mil)  Component Side
+   Violation between Track (3471.693mil,2973.189mil)(3558.307mil,2973.189mil)  Top Overlay and 
+                     Pad C25-2(3445mil,2971.732mil)  Component Side
+   Violation between Track (4079.567mil,2945.433mil)(4189.567mil,2945.433mil)  Top Overlay and 
+                     Pad U5-5(4222.913mil,2958.386mil)  Component Side
+   Violation between Track (4079.567mil,2945.433mil)(4189.567mil,2945.433mil)  Top Overlay and 
+                     Pad U5-6(4222.913mil,2932.795mil)  Component Side
+   Violation between Track (4200.433mil,2774.567mil)(4200.433mil,2864.567mil)  Top Overlay and 
+                     Pad U5-8(4222.913mil,2881.614mil)  Component Side
+   Violation between Track (4367.362mil,2956.811mil)(4367.362mil,2974.528mil)  Top Overlay and 
+                     Pad U5-4(4337.087mil,2958.386mil)  Component Side
+   Violation between Track (4367.362mil,2915.472mil)(4367.362mil,2933.189mil)  Top Overlay and 
+                     Pad U5-3(4337.087mil,2932.795mil)  Component Side
+   Violation between Track (4367.362mil,2915.472mil)(4367.362mil,2933.189mil)  Top Overlay and 
+                     Pad U5-2(4337.087mil,2907.205mil)  Component Side
+   Violation between Track (4367.362mil,2915.472mil)(4367.362mil,2933.189mil)  Top Overlay and 
+                     Pad C24-1(4390mil,2928.268mil)  Component Side
+   Violation between Track (4412.638mil,2915.473mil)(4412.638mil,2933.189mil)  Top Overlay and 
+                     Pad C24-1(4390mil,2928.268mil)  Component Side
+   Violation between Track (4376.024mil,2906.614mil)(4403.976mil,2906.614mil)  Top Overlay and 
+                     Pad C24-1(4390mil,2928.268mil)  Component Side
+   Violation between Track (4367.362mil,2956.811mil)(4367.362mil,2974.528mil)  Top Overlay and 
+                     Pad C24-2(4390mil,2961.732mil)  Component Side
+   Violation between Track (4412.638mil,2956.811mil)(4412.638mil,2974.528mil)  Top Overlay and 
+                     Pad C24-2(4390mil,2961.732mil)  Component Side
+   Violation between Track (4376.024mil,2983.386mil)(4403.976mil,2983.386mil)  Top Overlay and 
+                     Pad C24-2(4390mil,2961.732mil)  Component Side
+   Violation between Track (4488.386mil,3246.024mil)(4488.386mil,3273.976mil)  Top Overlay and 
+                     Pad C16-1(4466.732mil,3260mil)  Component Side
+   Violation between Track (4461.811mil,3237.362mil)(4479.528mil,3237.362mil)  Top Overlay and 
+                     Pad C16-1(4466.732mil,3260mil)  Component Side
+   Violation between Track (4461.811mil,3282.638mil)(4479.527mil,3282.638mil)  Top Overlay and 
+                     Pad C16-1(4466.732mil,3260mil)  Component Side
+   Violation between Track (4411.614mil,3246.024mil)(4411.614mil,3273.976mil)  Top Overlay and 
+                     Pad C16-2(4433.268mil,3260mil)  Component Side
+   Violation between Track (4420.472mil,3237.362mil)(4438.189mil,3237.362mil)  Top Overlay and 
+                     Pad C16-2(4433.268mil,3260mil)  Component Side
+   Violation between Track (4420.472mil,3282.638mil)(4438.189mil,3282.638mil)  Top Overlay and 
+                     Pad C16-2(4433.268mil,3260mil)  Component Side
+   Violation between Track (4321.614mil,3237.362mil)(4348.189mil,3237.362mil)  Top Overlay and 
+                     Pad R13-1(4343.268mil,3260mil)  Component Side
+   Violation between Track (4321.614mil,3282.638mil)(4348.189mil,3282.638mil)  Top Overlay and 
+                     Pad R13-1(4343.268mil,3260mil)  Component Side
+   Violation between Track (4321.614mil,3237.362mil)(4321.614mil,3282.638mil)  Top Overlay and 
+                     Pad R13-1(4343.268mil,3260mil)  Component Side
+   Violation between Track (4371.811mil,3237.362mil)(4398.386mil,3237.362mil)  Top Overlay and 
+                     Pad R13-2(4376.732mil,3260mil)  Component Side
+   Violation between Track (4371.811mil,3282.638mil)(4398.386mil,3282.638mil)  Top Overlay and 
+                     Pad R13-2(4376.732mil,3260mil)  Component Side
+   Violation between Track (4398.386mil,3237.362mil)(4398.386mil,3282.638mil)  Top Overlay and 
+                     Pad R13-2(4376.732mil,3260mil)  Component Side
+   Violation between Track (4415.748mil,3076.102mil)(4444.685mil,3076.102mil)  Top Overlay and 
+                     Pad U3-5(4437.402mil,3107.756mil)  Component Side
+   Violation between Track (4355.315mil,3076.102mil)(4384.252mil,3076.102mil)  Top Overlay and 
+                     Pad U3-4(4362.599mil,3107.756mil)  Component Side
+   Violation between Track (4355.315mil,3013.898mil)(4384.252mil,3013.898mil)  Top Overlay and 
+                     Pad C17-1(4369.685mil,3045mil)  Component Side
+   Violation between Track (4355.315mil,3076.102mil)(4384.252mil,3076.102mil)  Top Overlay and 
+                     Pad C17-1(4369.685mil,3045mil)  Component Side
+   Violation between Track (4339.567mil,3029.646mil)(4339.567mil,3060.354mil)  Top Overlay and 
+                     Pad C17-1(4369.685mil,3045mil)  Component Side
+   Violation between Track (4415.748mil,3013.898mil)(4444.685mil,3013.898mil)  Top Overlay and 
+                     Pad C17-2(4430.315mil,3045mil)  Component Side
+   Violation between Track (4415.748mil,3076.102mil)(4444.685mil,3076.102mil)  Top Overlay and 
+                     Pad C17-2(4430.315mil,3045mil)  Component Side
+   Violation between Track (4460.433mil,3029.646mil)(4460.433mil,3060.354mil)  Top Overlay and 
+                     Pad C17-2(4430.315mil,3045mil)  Component Side
+   Violation between Track (3608.386mil,3311.024mil)(3608.386mil,3338.976mil)  Top Overlay and 
+                     Pad U2-1(3614.725mil,3361.65mil)  Component Side
+   Violation between Track (3581.811mil,3347.638mil)(3599.527mil,3347.638mil)  Top Overlay and 
+                     Pad U2-1(3614.725mil,3361.65mil)  Component Side
+   Violation between Track (3585.001mil,3359.683mil)(3600.704mil,3359.683mil)  Top Overlay and 
+                     Pad U2-1(3614.725mil,3361.65mil)  Component Side
+   Violation between Track (3630.472mil,3337.638mil)(3648.189mil,3337.638mil)  Top Overlay and 
+                     Pad U2-2(3632.445mil,3361.65mil)  Component Side
+   Violation between Track (3630.472mil,3337.638mil)(3648.189mil,3337.638mil)  Top Overlay and 
+                     Pad U2-3(3650.155mil,3361.65mil)  Component Side
+   Violation between Track (3671.811mil,3337.638mil)(3689.528mil,3337.638mil)  Top Overlay and 
+                     Pad U2-4(3667.875mil,3361.65mil)  Component Side
+   Violation between Track (3671.811mil,3337.638mil)(3689.528mil,3337.638mil)  Top Overlay and 
+                     Pad U2-5(3685.595mil,3361.65mil)  Component Side
+   Violation between Track (3717.33mil,3359.683mil)(3731.413mil,3359.683mil)  Top Overlay and 
+                     Pad U2-6(3703.305mil,3361.65mil)  Component Side
+   Violation between Track (3720.472mil,3337.638mil)(3738.189mil,3337.638mil)  Top Overlay and 
+                     Pad U2-7(3745.435mil,3361.65mil)  Component Side
+   Violation between Track (3717.33mil,3359.683mil)(3731.413mil,3359.683mil)  Top Overlay and 
+                     Pad U2-7(3745.435mil,3361.65mil)  Component Side
+   Violation between Track (3761.811mil,3337.638mil)(3779.528mil,3337.638mil)  Top Overlay and 
+                     Pad U2-8(3763.155mil,3361.65mil)  Component Side
+   Violation between Track (3794.889mil,3359.683mil)(3825.158mil,3359.683mil)  Top Overlay and 
+                     Pad U2-9(3780.865mil,3361.65mil)  Component Side
+   Violation between Track (3761.811mil,3337.638mil)(3779.528mil,3337.638mil)  Top Overlay and 
+                     Pad U2-9(3780.865mil,3361.65mil)  Component Side
+   Violation between Track (3825.158mil,3359.683mil)(3825.158mil,3366.528mil)  Top Overlay and 
+                     Pad U2-10(3820.235mil,3380.55mil)  Component Side
+   Violation between Track (3844.055mil,3272.559mil)(3844.055mil,3717.441mil)  Top Overlay and 
+                     Pad U2-10(3820.235mil,3380.55mil)  Component Side
+   Violation between Track (3844.055mil,3272.559mil)(3844.055mil,3717.441mil)  Top Overlay and 
+                     Pad U2-11(3820.235mil,3398.27mil)  Component Side
+   Violation between Track (3844.055mil,3272.559mil)(3844.055mil,3717.441mil)  Top Overlay and 
+                     Pad U2-12(3820.235mil,3415.98mil)  Component Side
+   Violation between Track (3844.055mil,3272.559mil)(3844.055mil,3717.441mil)  Top Overlay and 
+                     Pad U2-13(3820.235mil,3433.7mil)  Component Side
+   Violation between Track (3844.055mil,3272.559mil)(3844.055mil,3717.441mil)  Top Overlay and 
+                     Pad U2-14(3820.235mil,3451.42mil)  Component Side
+   Violation between Track (3844.055mil,3272.559mil)(3844.055mil,3717.441mil)  Top Overlay and 
+                     Pad U2-15(3820.235mil,3469.13mil)  Component Side
+   Violation between Track (3844.055mil,3272.559mil)(3844.055mil,3717.441mil)  Top Overlay and 
+                     Pad U2-16(3820.235mil,3486.85mil)  Component Side
+   Violation between Track (3844.055mil,3272.559mil)(3844.055mil,3717.441mil)  Top Overlay and 
+                     Pad U2-17(3820.235mil,3504.57mil)  Component Side
+   Violation between Track (3844.055mil,3272.559mil)(3844.055mil,3717.441mil)  Top Overlay and 
+                     Pad U2-18(3820.235mil,3522.28mil)  Component Side
+   Violation between Track (3825.158mil,3554.019mil)(3825.158mil,3560.47mil)  Top Overlay and 
+                     Pad U2-19(3820.235mil,3540mil)  Component Side
+   Violation between Track (3844.055mil,3272.559mil)(3844.055mil,3717.441mil)  Top Overlay and 
+                     Pad U2-19(3820.235mil,3540mil)  Component Side
+   Violation between Track (3798.826mil,3560.47mil)(3825.158mil,3560.47mil)  Top Overlay and 
+                     Pad U2-20(3784.805mil,3558.5mil)  Component Side
+   Violation between Track (3585.001mil,3560.47mil)(3604.642mil,3560.47mil)  Top Overlay and 
+                     Pad U2-29(3618.665mil,3558.5mil)  Component Side
+   Violation between Track (3557.638mil,3536.811mil)(3557.638mil,3554.528mil)  Top Overlay and 
+                     Pad U2-30(3585.985mil,3540.79mil)  Component Side
+   Violation between Track (3583.033mil,3554.807mil)(3583.033mil,3560.47mil)  Top Overlay and 
+                     Pad U2-30(3585.985mil,3540.79mil)  Component Side
+   Violation between Track (3585.001mil,3560.47mil)(3604.642mil,3560.47mil)  Top Overlay and 
+                     Pad U2-30(3585.985mil,3540.79mil)  Component Side
+   Violation between Track (3557.638mil,3495.473mil)(3557.638mil,3513.189mil)  Top Overlay and 
+                     Pad U2-32(3585.985mil,3505.35mil)  Component Side
+   Violation between Track (3583.033mil,3359.683mil)(3583.033mil,3367.315mil)  Top Overlay and 
+                     Pad U2-39(3585.985mil,3381.34mil)  Component Side
+   Violation between Area Fill (3535mil,3355mil) (3565mil,3380mil)  Top Overlay and 
+                     Pad U2-39(3585.985mil,3381.34mil)  Component Side
+   Violation between Track (4213.898mil,3140.315mil)(4213.898mil,3169.252mil)  Top Overlay and 
+                     Pad C15-1(4245mil,3154.685mil)  Component Side
+   Violation between Track (4276.102mil,3140.315mil)(4276.102mil,3169.252mil)  Top Overlay and 
+                     Pad C15-1(4245mil,3154.685mil)  Component Side
+   Violation between Track (4229.646mil,3124.567mil)(4260.354mil,3124.567mil)  Top Overlay and 
+                     Pad C15-1(4245mil,3154.685mil)  Component Side
+   Violation between Track (4213.898mil,3200.748mil)(4213.898mil,3229.685mil)  Top Overlay and 
+                     Pad C15-2(4245mil,3215.315mil)  Component Side
+   Violation between Track (4276.102mil,3200.748mil)(4276.102mil,3229.685mil)  Top Overlay and 
+                     Pad C15-2(4245mil,3215.315mil)  Component Side
+   Violation between Track (4229.646mil,3245.433mil)(4260.354mil,3245.433mil)  Top Overlay and 
+                     Pad C15-2(4245mil,3215.315mil)  Component Side
+   Violation between Track (4141.614mil,3067.362mil)(4141.614mil,3112.638mil)  Top Overlay and 
+                     Pad R7-1(4163.268mil,3090mil)  Component Side
+   Violation between Track (4141.614mil,3112.638mil)(4168.189mil,3112.638mil)  Top Overlay and 
+                     Pad R7-1(4163.268mil,3090mil)  Component Side
+   Violation between Track (4141.614mil,3067.362mil)(4168.189mil,3067.362mil)  Top Overlay and 
+                     Pad R7-1(4163.268mil,3090mil)  Component Side
+   Violation between Track (4218.386mil,3067.362mil)(4218.386mil,3112.638mil)  Top Overlay and 
+                     Pad R7-2(4196.732mil,3090mil)  Component Side
+   Violation between Track (4191.811mil,3112.638mil)(4218.386mil,3112.638mil)  Top Overlay and 
+                     Pad R7-2(4196.732mil,3090mil)  Component Side
+   Violation between Track (4191.811mil,3067.362mil)(4218.386mil,3067.362mil)  Top Overlay and 
+                     Pad R7-2(4196.732mil,3090mil)  Component Side
+   Violation between Track (3630.472mil,3337.638mil)(3648.189mil,3337.638mil)  Top Overlay and 
+                     Pad C14-1(3643.268mil,3315mil)  Component Side
+   Violation between Track (3630.473mil,3292.362mil)(3648.189mil,3292.362mil)  Top Overlay and 
+                     Pad C14-1(3643.268mil,3315mil)  Component Side
+   Violation between Track (3621.614mil,3301.024mil)(3621.614mil,3328.976mil)  Top Overlay and 
+                     Pad C14-1(3643.268mil,3315mil)  Component Side
+   Violation between Track (3698.386mil,3301.024mil)(3698.386mil,3328.976mil)  Top Overlay and 
+                     Pad C14-2(3676.732mil,3315mil)  Component Side
+   Violation between Track (3671.811mil,3337.638mil)(3689.528mil,3337.638mil)  Top Overlay and 
+                     Pad C14-2(3676.732mil,3315mil)  Component Side
+   Violation between Track (3671.811mil,3292.362mil)(3689.528mil,3292.362mil)  Top Overlay and 
+                     Pad C14-2(3676.732mil,3315mil)  Component Side
+   Violation between Track (3720.472mil,3337.638mil)(3738.189mil,3337.638mil)  Top Overlay and 
+                     Pad C13-1(3733.268mil,3315mil)  Component Side
+   Violation between Track (3720.473mil,3292.362mil)(3738.189mil,3292.362mil)  Top Overlay and 
+                     Pad C13-1(3733.268mil,3315mil)  Component Side
+   Violation between Track (3711.614mil,3301.024mil)(3711.614mil,3328.976mil)  Top Overlay and 
+                     Pad C13-1(3733.268mil,3315mil)  Component Side
+   Violation between Track (3788.386mil,3301.024mil)(3788.386mil,3328.976mil)  Top Overlay and 
+                     Pad C13-2(3766.732mil,3315mil)  Component Side
+   Violation between Track (3761.811mil,3337.638mil)(3779.528mil,3337.638mil)  Top Overlay and 
+                     Pad C13-2(3766.732mil,3315mil)  Component Side
+   Violation between Track (3761.811mil,3292.362mil)(3779.528mil,3292.362mil)  Top Overlay and 
+                     Pad C13-2(3766.732mil,3315mil)  Component Side
+   Violation between Track (4051.614mil,3076.024mil)(4051.614mil,3103.976mil)  Top Overlay and 
+                     Pad C11-1(4073.268mil,3090mil)  Component Side
+   Violation between Track (4060.472mil,3112.638mil)(4078.189mil,3112.638mil)  Top Overlay and 
+                     Pad C11-1(4073.268mil,3090mil)  Component Side
+   Violation between Track (4060.473mil,3067.362mil)(4078.189mil,3067.362mil)  Top Overlay and 
+                     Pad C11-1(4073.268mil,3090mil)  Component Side
+   Violation between Track (4128.386mil,3076.024mil)(4128.386mil,3103.976mil)  Top Overlay and 
+                     Pad C11-2(4106.732mil,3090mil)  Component Side
+   Violation between Track (4101.811mil,3112.638mil)(4119.528mil,3112.638mil)  Top Overlay and 
+                     Pad C11-2(4106.732mil,3090mil)  Component Side
+   Violation between Track (4101.811mil,3067.362mil)(4119.528mil,3067.362mil)  Top Overlay and 
+                     Pad C11-2(4106.732mil,3090mil)  Component Side
+   Violation between Track (4101.811mil,3112.638mil)(4119.528mil,3112.638mil)  Top Overlay and 
+                     Pad U13-1(4102.598mil,3142.756mil)  Component Side
+   Violation between Track (4101.811mil,3112.638mil)(4119.528mil,3112.638mil)  Top Overlay and 
+                     Pad U13-2(4140mil,3142.756mil)  Component Side
+   Violation between Track (4141.614mil,3067.362mil)(4141.614mil,3112.638mil)  Top Overlay and 
+                     Pad U13-2(4140mil,3142.756mil)  Component Side
+   Violation between Track (4141.614mil,3112.638mil)(4168.189mil,3112.638mil)  Top Overlay and 
+                     Pad U13-2(4140mil,3142.756mil)  Component Side
+   Violation between Track (4191.811mil,3112.638mil)(4218.386mil,3112.638mil)  Top Overlay and 
+                     Pad U13-3(4177.401mil,3142.756mil)  Component Side
+   Violation between Track (4141.614mil,3112.638mil)(4168.189mil,3112.638mil)  Top Overlay and 
+                     Pad U13-3(4177.401mil,3142.756mil)  Component Side
+   Violation between Track (3740.551mil,3055.118mil)(3740.551mil,3131.378mil)  Top Overlay and 
+                     Pad C12-2(3780mil,3103.425mil)  Component Side
+   Violation between Track (3819.449mil,3055.118mil)(3819.449mil,3131.378mil)  Top Overlay and 
+                     Pad C12-2(3780mil,3103.425mil)  Component Side
+   Violation between Track (3740.551mil,3055.118mil)(3819.449mil,3055.118mil)  Top Overlay and 
+                     Pad C12-2(3780mil,3103.425mil)  Component Side
+   Violation between Track (3740.551mil,3178.622mil)(3740.551mil,3254.882mil)  Top Overlay and 
+                     Pad C12-1(3780mil,3206.575mil)  Component Side
+   Violation between Track (3819.449mil,3178.622mil)(3819.449mil,3254.882mil)  Top Overlay and 
+                     Pad C12-1(3780mil,3206.575mil)  Component Side
+   Violation between Track (3740.551mil,3254.882mil)(3819.449mil,3254.882mil)  Top Overlay and 
+                     Pad C12-1(3780mil,3206.575mil)  Component Side
+   Violation between Track (3512.362mil,3495.472mil)(3512.362mil,3513.189mil)  Top Overlay and 
+                     Pad C6-1(3535mil,3508.268mil)  Component Side
+   Violation between Track (3557.638mil,3495.473mil)(3557.638mil,3513.189mil)  Top Overlay and 
+                     Pad C6-1(3535mil,3508.268mil)  Component Side
+   Violation between Track (3521.024mil,3486.614mil)(3548.976mil,3486.614mil)  Top Overlay and 
+                     Pad C6-1(3535mil,3508.268mil)  Component Side
+   Violation between Track (3512.362mil,3536.811mil)(3512.362mil,3554.528mil)  Top Overlay and 
+                     Pad C6-2(3535mil,3541.732mil)  Component Side
+   Violation between Track (3557.638mil,3536.811mil)(3557.638mil,3554.528mil)  Top Overlay and 
+                     Pad C6-2(3535mil,3541.732mil)  Component Side
+   Violation between Track (3521.024mil,3563.386mil)(3548.976mil,3563.386mil)  Top Overlay and 
+                     Pad C6-2(3535mil,3541.732mil)  Component Side
+   Violation between Track (3897.362mil,2976.614mil)(3897.362mil,3003.189mil)  Top Overlay and 
+                     Pad R18-2(3920mil,2998.268mil)  Component Side
+   Violation between Track (3942.638mil,2976.614mil)(3942.638mil,3003.189mil)  Top Overlay and 
+                     Pad R18-2(3920mil,2998.268mil)  Component Side
+   Violation between Track (3897.362mil,2976.614mil)(3942.638mil,2976.614mil)  Top Overlay and 
+                     Pad R18-2(3920mil,2998.268mil)  Component Side
+   Violation between Track (3897.362mil,3026.811mil)(3897.362mil,3053.386mil)  Top Overlay and 
+                     Pad R18-1(3920mil,3031.732mil)  Component Side
+   Violation between Track (3942.638mil,3026.811mil)(3942.638mil,3053.386mil)  Top Overlay and 
+                     Pad R18-1(3920mil,3031.732mil)  Component Side
+   Violation between Track (3897.362mil,3053.386mil)(3942.638mil,3053.386mil)  Top Overlay and 
+                     Pad R18-1(3920mil,3031.732mil)  Component Side
+   Violation between Track (4007.362mil,2985.472mil)(4007.362mil,3003.189mil)  Top Overlay and 
+                     Pad C23-2(4030mil,2998.268mil)  Component Side
+   Violation between Track (4052.638mil,2985.472mil)(4052.638mil,3003.189mil)  Top Overlay and 
+                     Pad C23-2(4030mil,2998.268mil)  Component Side
+   Violation between Track (4016.024mil,2976.614mil)(4043.976mil,2976.614mil)  Top Overlay and 
+                     Pad C23-2(4030mil,2998.268mil)  Component Side
+   Violation between Track (4016.024mil,3053.386mil)(4043.976mil,3053.386mil)  Top Overlay and 
+                     Pad C23-1(4030mil,3031.732mil)  Component Side
+   Violation between Track (4007.362mil,3026.811mil)(4007.362mil,3044.527mil)  Top Overlay and 
+                     Pad C23-1(4030mil,3031.732mil)  Component Side
+   Violation between Track (4052.638mil,3026.811mil)(4052.638mil,3044.528mil)  Top Overlay and 
+                     Pad C23-1(4030mil,3031.732mil)  Component Side
+   Violation between Track (4062.362mil,2976.614mil)(4062.362mil,3053.386mil)  Top Overlay and 
+                     Pad L2-1(4085mil,3031.732mil)  Component Side
+   Violation between Track (4107.638mil,2976.614mil)(4107.638mil,3053.386mil)  Top Overlay and 
+                     Pad L2-1(4085mil,3031.732mil)  Component Side
+   Violation between Track (4062.362mil,3053.386mil)(4107.638mil,3053.386mil)  Top Overlay and 
+                     Pad L2-1(4085mil,3031.732mil)  Component Side
+   Violation between Track (4062.362mil,2976.614mil)(4062.362mil,3053.386mil)  Top Overlay and 
+                     Pad L2-2(4085mil,2998.268mil)  Component Side
+   Violation between Track (4107.638mil,2976.614mil)(4107.638mil,3053.386mil)  Top Overlay and 
+                     Pad L2-2(4085mil,2998.268mil)  Component Side
+   Violation between Track (4062.362mil,2976.614mil)(4107.638mil,2976.614mil)  Top Overlay and 
+                     Pad L2-2(4085mil,2998.268mil)  Component Side
+   Violation between Track (3952.362mil,2976.614mil)(3952.362mil,3003.189mil)  Top Overlay and 
+                     Pad R17-2(3975mil,2998.268mil)  Component Side
+   Violation between Track (3997.638mil,2976.614mil)(3997.638mil,3003.189mil)  Top Overlay and 
+                     Pad R17-2(3975mil,2998.268mil)  Component Side
+   Violation between Track (3952.362mil,2976.614mil)(3997.638mil,2976.614mil)  Top Overlay and 
+                     Pad R17-2(3975mil,2998.268mil)  Component Side
+   Violation between Track (3952.362mil,3026.811mil)(3952.362mil,3053.386mil)  Top Overlay and 
+                     Pad R17-1(3975mil,3031.732mil)  Component Side
+   Violation between Track (3952.362mil,3053.386mil)(3997.638mil,3053.386mil)  Top Overlay and 
+                     Pad R17-1(3975mil,3031.732mil)  Component Side
+   Violation between Track (3997.638mil,3026.811mil)(3997.638mil,3053.386mil)  Top Overlay and 
+                     Pad R17-1(3975mil,3031.732mil)  Component Side
+   Violation between Track (4221.614mil,2806.024mil)(4221.614mil,2833.976mil)  Top Overlay and 
+                     Pad C31-2(4243.268mil,2820mil)  Component Side
+   Violation between Track (4230.472mil,2842.638mil)(4248.189mil,2842.638mil)  Top Overlay and 
+                     Pad C31-2(4243.268mil,2820mil)  Component Side
+   Violation between Track (4230.472mil,2797.362mil)(4248.189mil,2797.362mil)  Top Overlay and 
+                     Pad C31-2(4243.268mil,2820mil)  Component Side
+   Violation between Track (4298.386mil,2806.024mil)(4298.386mil,2833.976mil)  Top Overlay and 
+                     Pad C31-1(4276.732mil,2820mil)  Component Side
+   Violation between Track (4271.811mil,2842.638mil)(4289.527mil,2842.638mil)  Top Overlay and 
+                     Pad C31-1(4276.732mil,2820mil)  Component Side
+   Violation between Track (4271.811mil,2797.362mil)(4289.528mil,2797.362mil)  Top Overlay and 
+                     Pad C31-1(4276.732mil,2820mil)  Component Side
+   Violation between Track (3876.26mil,3101.26mil)(3876.26mil,3258.74mil)  Top Overlay and 
+                     Pad L4-2(3908.347mil,3180mil)  Component Side
+   Violation between Track (3876.26mil,3101.26mil)(4033.74mil,3101.26mil)  Top Overlay and 
+                     Pad L4-2(3908.347mil,3180mil)  Component Side
+   Violation between Track (3876.26mil,3258.74mil)(4033.74mil,3258.74mil)  Top Overlay and 
+                     Pad L4-2(3908.347mil,3180mil)  Component Side
+   Violation between Track (4033.74mil,3101.26mil)(4033.74mil,3258.74mil)  Top Overlay and 
+                     Pad L4-1(4001.653mil,3180mil)  Component Side
+   Violation between Track (3876.26mil,3101.26mil)(4033.74mil,3101.26mil)  Top Overlay and 
+                     Pad L4-1(4001.653mil,3180mil)  Component Side
+   Violation between Track (3876.26mil,3258.74mil)(4033.74mil,3258.74mil)  Top Overlay and 
+                     Pad L4-1(4001.653mil,3180mil)  Component Side
+   Violation between Track (4209.252mil,3001.378mil)(4209.252mil,3048.622mil)  Top Overlay and 
+                     Pad D2-2(4178.543mil,3025mil)  Component Side
+   Violation between Track (4209.252mil,3001.378mil)(4240.748mil,3001.378mil)  Top Overlay and 
+                     Pad D2-2(4178.543mil,3025mil)  Component Side
+   Violation between Track (4209.252mil,3048.622mil)(4240.748mil,3048.622mil)  Top Overlay and 
+                     Pad D2-2(4178.543mil,3025mil)  Component Side
+   Violation between Track (4209.252mil,3001.378mil)(4240.748mil,3001.378mil)  Top Overlay and 
+                     Pad D2-1(4271.457mil,3025mil)  Component Side
+   Violation between Track (4209.252mil,3048.622mil)(4240.748mil,3048.622mil)  Top Overlay and 
+                     Pad D2-1(4271.457mil,3025mil)  Component Side
+   Violation between Track (4240.748mil,3001.378mil)(4240.748mil,3048.622mil)  Top Overlay and 
+                     Pad D2-1(4271.457mil,3025mil)  Component Side
+   Violation between Track (4255.472mil,3112.638mil)(4273.189mil,3112.638mil)  Top Overlay and 
+                     Pad C32-2(4268.268mil,3090mil)  Component Side
+   Violation between Track (4255.472mil,3067.362mil)(4273.189mil,3067.362mil)  Top Overlay and 
+                     Pad C32-2(4268.268mil,3090mil)  Component Side
+   Violation between Track (4246.614mil,3076.024mil)(4246.614mil,3103.976mil)  Top Overlay and 
+                     Pad C32-2(4268.268mil,3090mil)  Component Side
+   Violation between Track (4296.811mil,3112.638mil)(4314.527mil,3112.638mil)  Top Overlay and 
+                     Pad C32-1(4301.732mil,3090mil)  Component Side
+   Violation between Track (4296.811mil,3067.362mil)(4314.528mil,3067.362mil)  Top Overlay and 
+                     Pad C32-1(4301.732mil,3090mil)  Component Side
+   Violation between Track (4323.386mil,3076.024mil)(4323.386mil,3103.976mil)  Top Overlay and 
+                     Pad C32-1(4301.732mil,3090mil)  Component Side
+   Violation between Track (3710.472mil,3117.362mil)(3728.189mil,3117.362mil)  Bottom Overlay and 
+                     Pad U7-3(3730.59mil,3089.291mil)  Solder Side
+   Violation between Track (3710.472mil,3117.362mil)(3728.189mil,3117.362mil)  Bottom Overlay and 
+                     Pad U7-2(3705mil,3089.291mil)  Solder Side
+   Violation between Track (3417.362mil,3161.811mil)(3417.362mil,3188.386mil)  Bottom Overlay and 
+                     Pad R15-1(3440mil,3166.732mil)  Solder Side
+   Violation between Track (3462.638mil,3161.811mil)(3462.638mil,3188.386mil)  Bottom Overlay and 
+                     Pad R15-1(3440mil,3166.732mil)  Solder Side
+   Violation between Track (3417.362mil,3188.386mil)(3462.638mil,3188.386mil)  Bottom Overlay and 
+                     Pad R15-1(3440mil,3166.732mil)  Solder Side
+   Violation between Track (3417.362mil,3111.614mil)(3417.362mil,3138.189mil)  Bottom Overlay and 
+                     Pad R15-2(3440mil,3133.268mil)  Solder Side
+   Violation between Track (3462.638mil,3111.614mil)(3462.638mil,3138.189mil)  Bottom Overlay and 
+                     Pad R15-2(3440mil,3133.268mil)  Solder Side
+   Violation between Track (3417.362mil,3111.614mil)(3462.638mil,3111.614mil)  Bottom Overlay and 
+                     Pad R15-2(3440mil,3133.268mil)  Solder Side
+   Violation between Track (3511.614mil,3441.024mil)(3511.614mil,3468.976mil)  Bottom Overlay and 
+                     Pad C29-1(3533.268mil,3455mil)  Solder Side
+   Violation between Track (3520.472mil,3432.362mil)(3538.189mil,3432.362mil)  Bottom Overlay and 
+                     Pad C29-1(3533.268mil,3455mil)  Solder Side
+   Violation between Track (3520.473mil,3477.638mil)(3538.189mil,3477.638mil)  Bottom Overlay and 
+                     Pad C29-1(3533.268mil,3455mil)  Solder Side
+   Violation between Track (3561.811mil,3432.362mil)(3579.528mil,3432.362mil)  Bottom Overlay and 
+                     Pad C29-2(3566.732mil,3455mil)  Solder Side
+   Violation between Track (3561.811mil,3477.638mil)(3579.528mil,3477.638mil)  Bottom Overlay and 
+                     Pad C29-2(3566.732mil,3455mil)  Solder Side
+   Violation between Track (3588.386mil,3441.024mil)(3588.386mil,3468.976mil)  Bottom Overlay and 
+                     Pad C29-2(3566.732mil,3455mil)  Solder Side
+   Violation between Track (3710.473mil,3162.638mil)(3728.189mil,3162.638mil)  Bottom Overlay and 
+                     Pad C27-1(3723.268mil,3140mil)  Solder Side
+   Violation between Track (3701.614mil,3126.024mil)(3701.614mil,3153.976mil)  Bottom Overlay and 
+                     Pad C27-1(3723.268mil,3140mil)  Solder Side
+   Violation between Track (3710.472mil,3117.362mil)(3728.189mil,3117.362mil)  Bottom Overlay and 
+                     Pad C27-1(3723.268mil,3140mil)  Solder Side
+   Violation between Track (3778.386mil,3126.024mil)(3778.386mil,3153.976mil)  Bottom Overlay and 
+                     Pad C27-2(3756.732mil,3140mil)  Solder Side
+   Violation between Track (3751.811mil,3162.638mil)(3769.528mil,3162.638mil)  Bottom Overlay and 
+                     Pad C27-2(3756.732mil,3140mil)  Solder Side
+   Violation between Track (3751.811mil,3117.362mil)(3769.528mil,3117.362mil)  Bottom Overlay and 
+                     Pad C27-2(3756.732mil,3140mil)  Solder Side
+   Violation between Track (3512.362mil,3536.811mil)(3512.362mil,3563.386mil)  Bottom Overlay and 
+                     Pad R12-1(3535mil,3541.732mil)  Solder Side
+   Violation between Track (3557.638mil,3536.811mil)(3557.638mil,3563.386mil)  Bottom Overlay and 
+                     Pad R12-1(3535mil,3541.732mil)  Solder Side
+   Violation between Track (3512.362mil,3563.386mil)(3557.638mil,3563.386mil)  Bottom Overlay and 
+                     Pad R12-1(3535mil,3541.732mil)  Solder Side
+   Violation between Track (3512.362mil,3486.614mil)(3512.362mil,3513.189mil)  Bottom Overlay and 
+                     Pad R12-2(3535mil,3508.268mil)  Solder Side
+   Violation between Track (3557.638mil,3486.614mil)(3557.638mil,3513.189mil)  Bottom Overlay and 
+                     Pad R12-2(3535mil,3508.268mil)  Solder Side
+   Violation between Track (3512.362mil,3486.614mil)(3557.638mil,3486.614mil)  Bottom Overlay and 
+                     Pad R12-2(3535mil,3508.268mil)  Solder Side
+   Violation between Track (3572.362mil,3161.811mil)(3572.362mil,3188.386mil)  Bottom Overlay and 
+                     Pad R10-1(3595mil,3166.732mil)  Solder Side
+   Violation between Track (3617.638mil,3161.811mil)(3617.638mil,3188.386mil)  Bottom Overlay and 
+                     Pad R10-1(3595mil,3166.732mil)  Solder Side
+   Violation between Track (3572.362mil,3188.386mil)(3617.638mil,3188.386mil)  Bottom Overlay and 
+                     Pad R10-1(3595mil,3166.732mil)  Solder Side
+   Violation between Track (3572.362mil,3111.614mil)(3572.362mil,3138.189mil)  Bottom Overlay and 
+                     Pad R10-2(3595mil,3133.268mil)  Solder Side
+   Violation between Track (3617.638mil,3111.614mil)(3617.638mil,3138.189mil)  Bottom Overlay and 
+                     Pad R10-2(3595mil,3133.268mil)  Solder Side
+   Violation between Track (3572.362mil,3111.614mil)(3617.638mil,3111.614mil)  Bottom Overlay and 
+                     Pad R10-2(3595mil,3133.268mil)  Solder Side
+   Violation between Track (3562.638mil,3111.614mil)(3562.638mil,3138.189mil)  Bottom Overlay and 
+                     Pad R11-1(3540mil,3133.268mil)  Solder Side
+   Violation between Track (3517.362mil,3111.614mil)(3517.362mil,3138.189mil)  Bottom Overlay and 
+                     Pad R11-1(3540mil,3133.268mil)  Solder Side
+   Violation between Track (3517.362mil,3111.614mil)(3562.638mil,3111.614mil)  Bottom Overlay and 
+                     Pad R11-1(3540mil,3133.268mil)  Solder Side
+   Violation between Track (3562.638mil,3161.811mil)(3562.638mil,3188.386mil)  Bottom Overlay and 
+                     Pad R11-2(3540mil,3166.732mil)  Solder Side
+   Violation between Track (3517.362mil,3161.811mil)(3517.362mil,3188.386mil)  Bottom Overlay and 
+                     Pad R11-2(3540mil,3166.732mil)  Solder Side
+   Violation between Track (3517.362mil,3188.386mil)(3562.638mil,3188.386mil)  Bottom Overlay and 
+                     Pad R11-2(3540mil,3166.732mil)  Solder Side
+   Violation between Track (3572.362mil,3071.811mil)(3572.362mil,3098.386mil)  Bottom Overlay and 
+                     Pad R9-1(3595mil,3076.732mil)  Solder Side
+   Violation between Track (3617.638mil,3071.811mil)(3617.638mil,3098.386mil)  Bottom Overlay and 
+                     Pad R9-1(3595mil,3076.732mil)  Solder Side
+   Violation between Track (3572.362mil,3098.386mil)(3617.638mil,3098.386mil)  Bottom Overlay and 
+                     Pad R9-1(3595mil,3076.732mil)  Solder Side
+   Violation between Track (3572.362mil,3021.614mil)(3572.362mil,3048.189mil)  Bottom Overlay and 
+                     Pad R9-2(3595mil,3043.268mil)  Solder Side
+   Violation between Track (3617.638mil,3021.614mil)(3617.638mil,3048.189mil)  Bottom Overlay and 
+                     Pad R9-2(3595mil,3043.268mil)  Solder Side
+   Violation between Track (3572.362mil,3021.614mil)(3617.638mil,3021.614mil)  Bottom Overlay and 
+                     Pad R9-2(3595mil,3043.268mil)  Solder Side
+   Violation between Track (3514.109mil,3301.378mil)(3514.109mil,3348.622mil)  Bottom Overlay and 
+                     Pad D1-1(3483.4mil,3325mil)  Solder Side
+   Violation between Track (3514.109mil,3348.622mil)(3545.605mil,3348.622mil)  Bottom Overlay and 
+                     Pad D1-1(3483.4mil,3325mil)  Solder Side
+   Violation between Track (3514.109mil,3301.378mil)(3545.605mil,3301.378mil)  Bottom Overlay and 
+                     Pad D1-1(3483.4mil,3325mil)  Solder Side
+   Violation between Track (3545.605mil,3301.378mil)(3545.605mil,3348.622mil)  Bottom Overlay and 
+                     Pad D1-2(3576.313mil,3325mil)  Solder Side
+   Violation between Track (3514.109mil,3348.622mil)(3545.605mil,3348.622mil)  Bottom Overlay and 
+                     Pad D1-2(3576.313mil,3325mil)  Solder Side
+   Violation between Track (3514.109mil,3301.378mil)(3545.605mil,3301.378mil)  Bottom Overlay and 
+                     Pad D1-2(3576.313mil,3325mil)  Solder Side
+   Violation between Track (3912.362mil,3669.016mil)(4207.638mil,3669.016mil)  Bottom Overlay and 
+                     Pad C19-2(4010.63mil,3705mil)  Solder Side
+   Violation between Track (3912.362mil,3669.016mil)(4207.638mil,3669.016mil)  Bottom Overlay and 
+                     Pad C19-1(4089.37mil,3705mil)  Solder Side
+   Violation between Track (3859.016mil,3372.362mil)(3859.016mil,3667.638mil)  Bottom Overlay and 
+                     Pad C20-2(3875.63mil,3705mil)  Solder Side
+   Violation between Track (3813.74mil,3667.638mil)(3859.016mil,3667.638mil)  Bottom Overlay and 
+                     Pad C20-2(3875.63mil,3705mil)  Solder Side
+   Violation between Track (3912.362mil,3669.016mil)(4207.638mil,3669.016mil)  Bottom Overlay and 
+                     Pad C20-1(3954.37mil,3705mil)  Solder Side
+   Violation between Track (4233.037mil,3067.285mil)(4233.037mil,3112.56mil)  Bottom Overlay and 
+                     Pad R8-1(4211.383mil,3089.923mil)  Solder Side
+   Violation between Track (4206.462mil,3112.56mil)(4233.037mil,3112.56mil)  Bottom Overlay and 
+                     Pad R8-1(4211.383mil,3089.923mil)  Solder Side
+   Violation between Track (4206.462mil,3067.285mil)(4233.037mil,3067.285mil)  Bottom Overlay and 
+                     Pad R8-1(4211.383mil,3089.923mil)  Solder Side
+   Violation between Track (4156.265mil,3067.285mil)(4156.265mil,3112.56mil)  Bottom Overlay and 
+                     Pad R8-2(4177.918mil,3089.923mil)  Solder Side
+   Violation between Track (4156.265mil,3112.56mil)(4182.84mil,3112.56mil)  Bottom Overlay and 
+                     Pad R8-2(4177.918mil,3089.923mil)  Solder Side
+   Violation between Track (4156.265mil,3067.285mil)(4182.84mil,3067.285mil)  Bottom Overlay and 
+                     Pad R8-2(4177.918mil,3089.923mil)  Solder Side
+   Violation between Track (4224.835mil,3473mil)(4384.835mil,3473mil)  Bottom Overlay and 
+                     Pad R4-0(4291.063mil,3430mil)  Solder Side
+   Violation between Track (4224.835mil,3135mil)(4384.835mil,3135mil)  Bottom Overlay and 
+                     Pad R4-1(4291.063mil,3178mil)  Solder Side
+   Violation between Track (4224.835mil,3473mil)(4384.835mil,3473mil)  Bottom Overlay and 
+                     Pad R4-2(4357.992mil,3430mil)  Solder Side
+   Violation between Track (4224.835mil,3135mil)(4384.835mil,3135mil)  Bottom Overlay and 
+                     Pad R4-3(4357.992mil,3177.992mil)  Solder Side
+   Violation between Track (3778.386mil,3126.024mil)(3778.386mil,3153.976mil)  Bottom Overlay and 
+                     Pad Free-0(3925.787mil,3227.205mil)  Solder Side
+   Violation between Track (3859.016mil,3372.362mil)(3859.016mil,3667.638mil)  Bottom Overlay and 
+                     Pad Free-0(3925.787mil,3227.205mil)  Solder Side
+   Violation between Track (3751.811mil,3162.638mil)(3769.528mil,3162.638mil)  Bottom Overlay and 
+                     Pad Free-0(3925.787mil,3227.205mil)  Solder Side
+   Violation between Track (3813.74mil,3372.362mil)(3859.016mil,3372.362mil)  Bottom Overlay and 
+                     Pad Free-0(3925.787mil,3227.205mil)  Solder Side
+   Violation between Track (4206.811mil,3002.362mil)(4233.386mil,3002.362mil)  Bottom Overlay and 
+                     Pad R16-2(4211.732mil,3025mil)  Solder Side
+   Violation between Track (4206.811mil,3047.638mil)(4233.386mil,3047.638mil)  Bottom Overlay and 
+                     Pad R16-2(4211.732mil,3025mil)  Solder Side
+   Violation between Track (4233.386mil,3002.362mil)(4233.386mil,3047.638mil)  Bottom Overlay and 
+                     Pad R16-2(4211.732mil,3025mil)  Solder Side
+   Violation between Track (4156.614mil,3002.362mil)(4183.189mil,3002.362mil)  Bottom Overlay and 
+                     Pad R16-1(4178.268mil,3025mil)  Solder Side
+   Violation between Track (4156.614mil,3047.638mil)(4183.189mil,3047.638mil)  Bottom Overlay and 
+                     Pad R16-1(4178.268mil,3025mil)  Solder Side
+   Violation between Track (4156.614mil,3002.362mil)(4156.614mil,3047.638mil)  Bottom Overlay and 
+                     Pad R16-1(4178.268mil,3025mil)  Solder Side
+   Violation between Track (4224.835mil,3400mil)(4224.835mil,3473mil)  Bottom Overlay and 
+                     Pad C5-2(4181.063mil,3545mil)  Solder Side
+   Violation between Track (4224.835mil,3473mil)(4384.835mil,3473mil)  Bottom Overlay and 
+                     Pad C5-2(4181.063mil,3545mil)  Solder Side
+   Violation between Region (0 hole(s)) Bottom Overlay and 
+                     Pad C5-2(4181.063mil,3545mil)  Solder Side
+Rule Violations :505
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Violation between Pad C28-1(4455mil,3355mil)  Component Side and 
+                     Arc (3925.787mil,3227.205mil)  Top Solder
+   Violation between Pad U2-29(3618.665mil,3558.5mil)  Component Side and 
+                     Pad C7-2(3595.315mil,3605mil)  Component Side
+   Violation between Pad C3-2(3655mil,3645mil)  Component Side and 
+                     Pad C7-2(3595.315mil,3605mil)  Component Side
+   Violation between Pad U6-5(3515mil,2940.709mil)  Component Side and 
+                     Pad U6-6(3540.591mil,2940.709mil)  Component Side
+   Violation between Pad U6-4(3489.41mil,2940.709mil)  Component Side and 
+                     Pad U6-5(3515mil,2940.709mil)  Component Side
+   Violation between Pad U6-2(3515mil,3029.291mil)  Component Side and 
+                     Pad U6-3(3489.41mil,3029.291mil)  Component Side
+   Violation between Pad U6-1(3540.591mil,3029.291mil)  Component Side and 
+                     Pad U6-2(3515mil,3029.291mil)  Component Side
+   Violation between Pad Q1-2(3420.709mil,3420mil)  Component Side and 
+                     Pad Q1-1(3420.709mil,3445.591mil)  Component Side
+   Violation between Pad Q1-3(3420.709mil,3394.41mil)  Component Side and 
+                     Pad Q1-2(3420.709mil,3420mil)  Component Side
+   Violation between Pad Q1-5(3509.291mil,3420mil)  Component Side and 
+                     Pad Q1-4(3509.291mil,3394.41mil)  Component Side
+   Violation between Pad Q1-6(3509.291mil,3445.591mil)  Component Side and 
+                     Pad Q1-5(3509.291mil,3420mil)  Component Side
+   Violation between Pad U8-2(3679.291mil,2990mil)  Component Side and 
+                     Pad U8-1(3679.291mil,2964.409mil)  Component Side
+   Violation between Pad U8-3(3679.291mil,3015.59mil)  Component Side and 
+                     Pad U8-2(3679.291mil,2990mil)  Component Side
+   Violation between Pad U8-5(3590.709mil,2990mil)  Component Side and 
+                     Pad U8-4(3590.709mil,3015.59mil)  Component Side
+   Violation between Pad U8-6(3590.709mil,2964.409mil)  Component Side and 
+                     Pad U8-5(3590.709mil,2990mil)  Component Side
+   Violation between Pad C30-2(3628.268mil,3065mil)  Component Side and 
+                     Pad C30-1(3661.732mil,3065mil)  Component Side
+   Violation between Pad U4-2(3863.976mil,2975.157mil)  Component Side and 
+                     Pad U4-1(3863.976mil,2955.472mil)  Component Side
+   Violation between Pad U4-9(3825mil,2985mil)  Component Side and 
+                     Pad U4-1(3863.976mil,2955.472mil)  Component Side
+   Violation between Pad U4-3(3863.976mil,2994.843mil)  Component Side and 
+                     Pad U4-2(3863.976mil,2975.157mil)  Component Side
+   Violation between Pad U4-9(3825mil,2985mil)  Component Side and 
+                     Pad U4-2(3863.976mil,2975.157mil)  Component Side
+   Violation between Pad U4-4(3863.976mil,3014.528mil)  Component Side and 
+                     Pad U4-3(3863.976mil,2994.843mil)  Component Side
+   Violation between Pad U4-9(3825mil,2985mil)  Component Side and 
+                     Pad U4-3(3863.976mil,2994.843mil)  Component Side
+   Violation between Pad U4-9(3825mil,2985mil)  Component Side and 
+                     Pad U4-4(3863.976mil,3014.528mil)  Component Side
+   Violation between Pad U4-7(3786.024mil,2975.157mil)  Component Side and 
+                     Pad U4-8(3786.024mil,2955.472mil)  Component Side
+   Violation between Pad U4-9(3825mil,2985mil)  Component Side and 
+                     Pad U4-8(3786.024mil,2955.472mil)  Component Side
+   Violation between Pad U4-6(3786.024mil,2994.843mil)  Component Side and 
+                     Pad U4-7(3786.024mil,2975.157mil)  Component Side
+   Violation between Pad U4-9(3825mil,2985mil)  Component Side and 
+                     Pad U4-7(3786.024mil,2975.157mil)  Component Side
+   Violation between Pad U4-5(3786.024mil,3014.528mil)  Component Side and 
+                     Pad U4-6(3786.024mil,2994.843mil)  Component Side
+   Violation between Pad U4-9(3825mil,2985mil)  Component Side and 
+                     Pad U4-6(3786.024mil,2994.843mil)  Component Side
+   Violation between Pad U4-9(3825mil,2985mil)  Component Side and 
+                     Pad U4-5(3786.024mil,3014.528mil)  Component Side
+   Violation between Pad C22-2(3730mil,2968.268mil)  Component Side and 
+                     Pad C22-1(3730mil,3001.732mil)  Component Side
+   Violation between Pad C21-2(3918.268mil,2945mil)  Component Side and 
+                     Pad C21-1(3951.732mil,2945mil)  Component Side
+   Violation between Pad R14-2(3480mil,3508.268mil)  Component Side and 
+                     Pad R14-1(3480mil,3541.732mil)  Component Side
+   Violation between Pad C26-2(3553.268mil,3325mil)  Component Side and 
+                     Pad C26-1(3586.732mil,3325mil)  Component Side
+   Violation between Pad R5-2(3380mil,3156.732mil)  Component Side and 
+                     Pad R5-1(3380mil,3123.268mil)  Component Side
+   Violation between Pad R6-2(3400mil,3033.268mil)  Component Side and 
+                     Pad R6-1(3400mil,3066.732mil)  Component Side
+   Violation between Pad R3-2(3396.732mil,3270mil)  Component Side and 
+                     Pad R3-1(3363.268mil,3270mil)  Component Side
+   Violation between Pad C18-2(3445mil,3066.732mil)  Component Side and 
+                     Pad C18-1(3445mil,3033.268mil)  Component Side
+   Violation between Pad R2-2(3696.732mil,3125mil)  Component Side and 
+                     Pad R2-1(3663.268mil,3125mil)  Component Side
+   Violation between Pad R1-2(3663.268mil,3180mil)  Component Side and 
+                     Pad R1-1(3696.732mil,3180mil)  Component Side
+   Violation between Pad C10-2(3663.268mil,3235mil)  Component Side and 
+                     Pad C10-1(3696.732mil,3235mil)  Component Side
+   Violation between Pad C1-2(3411.732mil,3325mil)  Component Side and 
+                     Pad C1-1(3378.268mil,3325mil)  Component Side
+   Violation between Pad C9-2(3396.732mil,3210mil)  Component Side and 
+                     Pad C9-1(3363.268mil,3210mil)  Component Side
+   Violation between Pad C8-2(3501.732mil,3325mil)  Component Side and 
+                     Pad C8-1(3468.268mil,3325mil)  Component Side
+   Violation between Pad U1-6(3490.63mil,3109.291mil)  Component Side and 
+                     Pad U1-21(3530mil,3190mil)  Component Side
+   Violation between Pad U1-7(3510.315mil,3109.291mil)  Component Side and 
+                     Pad U1-21(3530mil,3190mil)  Component Side
+   Violation between Pad U1-19(3510.315mil,3270.709mil)  Component Side and 
+                     Pad U1-21(3530mil,3190mil)  Component Side
+   Violation between Pad U1-20(3490.63mil,3270.709mil)  Component Side and 
+                     Pad U1-21(3530mil,3190mil)  Component Side
+   Violation between Pad U1-8(3530mil,3109.291mil)  Component Side and 
+                     Pad U1-21(3530mil,3190mil)  Component Side
+   Violation between Pad U1-9(3549.685mil,3109.291mil)  Component Side and 
+                     Pad U1-21(3530mil,3190mil)  Component Side
+   Violation between Pad U1-10(3569.37mil,3109.291mil)  Component Side and 
+                     Pad U1-21(3530mil,3190mil)  Component Side
+   Violation between Pad U1-16(3569.37mil,3270.709mil)  Component Side and 
+                     Pad U1-21(3530mil,3190mil)  Component Side
+   Violation between Pad U1-17(3549.685mil,3270.709mil)  Component Side and 
+                     Pad U1-21(3530mil,3190mil)  Component Side
+   Violation between Pad U1-18(3530mil,3270.709mil)  Component Side and 
+                     Pad U1-21(3530mil,3190mil)  Component Side
+   Violation between Pad U1-3(3449.291mil,3190mil)  Component Side and 
+                     Pad U1-21(3530mil,3190mil)  Component Side
+   Violation between Pad U1-4(3449.291mil,3170.315mil)  Component Side and 
+                     Pad U1-21(3530mil,3190mil)  Component Side
+   Violation between Pad U1-5(3449.291mil,3150.63mil)  Component Side and 
+                     Pad U1-21(3530mil,3190mil)  Component Side
+   Violation between Pad U1-1(3449.291mil,3229.37mil)  Component Side and 
+                     Pad U1-21(3530mil,3190mil)  Component Side
+   Violation between Pad U1-2(3449.291mil,3209.685mil)  Component Side and 
+                     Pad U1-21(3530mil,3190mil)  Component Side
+   Violation between Pad U1-11(3610.709mil,3150.63mil)  Component Side and 
+                     Pad U1-21(3530mil,3190mil)  Component Side
+   Violation between Pad U1-12(3610.709mil,3170.315mil)  Component Side and 
+                     Pad U1-21(3530mil,3190mil)  Component Side
+   Violation between Pad U1-13(3610.709mil,3190mil)  Component Side and 
+                     Pad U1-21(3530mil,3190mil)  Component Side
+   Violation between Pad U1-14(3610.709mil,3209.685mil)  Component Side and 
+                     Pad U1-21(3530mil,3190mil)  Component Side
+   Violation between Pad U1-15(3610.709mil,3229.37mil)  Component Side and 
+                     Pad U1-21(3530mil,3190mil)  Component Side
+   Violation between Pad U1-19(3510.315mil,3270.709mil)  Component Side and 
+                     Pad U1-20(3490.63mil,3270.709mil)  Component Side
+   Violation between Pad U1-18(3530mil,3270.709mil)  Component Side and 
+                     Pad U1-19(3510.315mil,3270.709mil)  Component Side
+   Violation between Pad U1-17(3549.685mil,3270.709mil)  Component Side and 
+                     Pad U1-18(3530mil,3270.709mil)  Component Side
+   Violation between Pad U1-16(3569.37mil,3270.709mil)  Component Side and 
+                     Pad U1-17(3549.685mil,3270.709mil)  Component Side
+   Violation between Pad U1-14(3610.709mil,3209.685mil)  Component Side and 
+                     Pad U1-15(3610.709mil,3229.37mil)  Component Side
+   Violation between Pad U1-13(3610.709mil,3190mil)  Component Side and 
+                     Pad U1-14(3610.709mil,3209.685mil)  Component Side
+   Violation between Pad U1-12(3610.709mil,3170.315mil)  Component Side and 
+                     Pad U1-13(3610.709mil,3190mil)  Component Side
+   Violation between Pad U1-11(3610.709mil,3150.63mil)  Component Side and 
+                     Pad U1-12(3610.709mil,3170.315mil)  Component Side
+   Violation between Pad U1-9(3549.685mil,3109.291mil)  Component Side and 
+                     Pad U1-10(3569.37mil,3109.291mil)  Component Side
+   Violation between Pad U1-8(3530mil,3109.291mil)  Component Side and 
+                     Pad U1-9(3549.685mil,3109.291mil)  Component Side
+   Violation between Pad U1-7(3510.315mil,3109.291mil)  Component Side and 
+                     Pad U1-8(3530mil,3109.291mil)  Component Side
+   Violation between Pad U1-6(3490.63mil,3109.291mil)  Component Side and 
+                     Pad U1-7(3510.315mil,3109.291mil)  Component Side
+   Violation between Pad U1-4(3449.291mil,3170.315mil)  Component Side and 
+                     Pad U1-5(3449.291mil,3150.63mil)  Component Side
+   Violation between Pad U1-3(3449.291mil,3190mil)  Component Side and 
+                     Pad U1-4(3449.291mil,3170.315mil)  Component Side
+   Violation between Pad U1-2(3449.291mil,3209.685mil)  Component Side and 
+                     Pad U1-3(3449.291mil,3190mil)  Component Side
+   Violation between Pad U1-1(3449.291mil,3229.37mil)  Component Side and 
+                     Pad U1-2(3449.291mil,3209.685mil)  Component Side
+   Violation between Pad C25-2(3445mil,2971.732mil)  Component Side and 
+                     Pad C25-1(3445mil,2938.268mil)  Component Side
+   Violation between Pad U5-6(4222.913mil,2932.795mil)  Component Side and 
+                     Pad U5-5(4222.913mil,2958.386mil)  Component Side
+   Violation between Pad U5-7(4222.913mil,2907.205mil)  Component Side and 
+                     Pad U5-6(4222.913mil,2932.795mil)  Component Side
+   Violation between Pad U5-8(4222.913mil,2881.614mil)  Component Side and 
+                     Pad U5-7(4222.913mil,2907.205mil)  Component Side
+   Violation between Pad P2-2(4165mil,2910mil)  Multi-Layer and 
+                     Pad U5-7(4222.913mil,2907.205mil)  Component Side
+   Violation between Pad U5-3(4337.087mil,2932.795mil)  Component Side and 
+                     Pad U5-4(4337.087mil,2958.386mil)  Component Side
+   Violation between Pad U5-2(4337.087mil,2907.205mil)  Component Side and 
+                     Pad U5-3(4337.087mil,2932.795mil)  Component Side
+   Violation between Pad U5-1(4337.087mil,2881.614mil)  Component Side and 
+                     Pad U5-2(4337.087mil,2907.205mil)  Component Side
+   Violation between Pad C24-2(4390mil,2961.732mil)  Component Side and 
+                     Pad C24-1(4390mil,2928.268mil)  Component Side
+   Violation between Pad C16-2(4433.268mil,3260mil)  Component Side and 
+                     Pad C16-1(4466.732mil,3260mil)  Component Side
+   Violation between Pad R13-2(4376.732mil,3260mil)  Component Side and 
+                     Pad R13-1(4343.268mil,3260mil)  Component Side
+   Violation between Pad U3-2(4400mil,3202.244mil)  Component Side and 
+                     Pad U3-3(4362.599mil,3202.244mil)  Component Side
+   Violation between Pad U3-1(4437.402mil,3202.244mil)  Component Side and 
+                     Pad U3-2(4400mil,3202.244mil)  Component Side
+   Violation between Pad U2-2(3632.445mil,3361.65mil)  Component Side and 
+                     Pad U2-1(3614.725mil,3361.65mil)  Component Side
+   Violation between Pad U2-39(3585.985mil,3381.34mil)  Component Side and 
+                     Pad U2-1(3614.725mil,3361.65mil)  Component Side
+   Violation between Pad U2-3(3650.155mil,3361.65mil)  Component Side and 
+                     Pad U2-2(3632.445mil,3361.65mil)  Component Side
+   Violation between Pad U2-4(3667.875mil,3361.65mil)  Component Side and 
+                     Pad U2-3(3650.155mil,3361.65mil)  Component Side
+   Violation between Pad U2-5(3685.595mil,3361.65mil)  Component Side and 
+                     Pad U2-4(3667.875mil,3361.65mil)  Component Side
+   Violation between Pad U2-6(3703.305mil,3361.65mil)  Component Side and 
+                     Pad U2-5(3685.595mil,3361.65mil)  Component Side
+   Violation between Pad U2-8(3763.155mil,3361.65mil)  Component Side and 
+                     Pad U2-7(3745.435mil,3361.65mil)  Component Side
+   Violation between Pad U2-9(3780.865mil,3361.65mil)  Component Side and 
+                     Pad U2-8(3763.155mil,3361.65mil)  Component Side
+   Violation between Pad U2-11(3820.235mil,3398.27mil)  Component Side and 
+                     Pad U2-10(3820.235mil,3380.55mil)  Component Side
+   Violation between Pad U2-12(3820.235mil,3415.98mil)  Component Side and 
+                     Pad U2-11(3820.235mil,3398.27mil)  Component Side
+   Violation between Pad U2-13(3820.235mil,3433.7mil)  Component Side and 
+                     Pad U2-12(3820.235mil,3415.98mil)  Component Side
+   Violation between Pad U2-14(3820.235mil,3451.42mil)  Component Side and 
+                     Pad U2-13(3820.235mil,3433.7mil)  Component Side
+   Violation between Pad U2-15(3820.235mil,3469.13mil)  Component Side and 
+                     Pad U2-14(3820.235mil,3451.42mil)  Component Side
+   Violation between Pad U2-16(3820.235mil,3486.85mil)  Component Side and 
+                     Pad U2-15(3820.235mil,3469.13mil)  Component Side
+   Violation between Pad U2-17(3820.235mil,3504.57mil)  Component Side and 
+                     Pad U2-16(3820.235mil,3486.85mil)  Component Side
+   Violation between Pad U2-18(3820.235mil,3522.28mil)  Component Side and 
+                     Pad U2-17(3820.235mil,3504.57mil)  Component Side
+   Violation between Pad U2-19(3820.235mil,3540mil)  Component Side and 
+                     Pad U2-18(3820.235mil,3522.28mil)  Component Side
+   Violation between Pad U2-21(3767.085mil,3558.5mil)  Component Side and 
+                     Pad U2-20(3784.805mil,3558.5mil)  Component Side
+   Violation between Pad U2-22(3749.375mil,3558.5mil)  Component Side and 
+                     Pad U2-21(3767.085mil,3558.5mil)  Component Side
+   Violation between Pad U2-23(3731.655mil,3558.5mil)  Component Side and 
+                     Pad U2-22(3749.375mil,3558.5mil)  Component Side
+   Violation between Pad U2-24(3713.935mil,3558.5mil)  Component Side and 
+                     Pad U2-23(3731.655mil,3558.5mil)  Component Side
+   Violation between Pad U2-26(3671.815mil,3558.5mil)  Component Side and 
+                     Pad U2-25(3689.525mil,3558.5mil)  Component Side
+   Violation between Pad U2-27(3654.095mil,3558.5mil)  Component Side and 
+                     Pad U2-26(3671.815mil,3558.5mil)  Component Side
+   Violation between Pad U2-28(3636.375mil,3558.5mil)  Component Side and 
+                     Pad U2-27(3654.095mil,3558.5mil)  Component Side
+   Violation between Pad U2-29(3618.665mil,3558.5mil)  Component Side and 
+                     Pad U2-28(3636.375mil,3558.5mil)  Component Side
+   Violation between Pad U2-31(3585.985mil,3523.07mil)  Component Side and 
+                     Pad U2-30(3585.985mil,3540.79mil)  Component Side
+   Violation between Pad U2-32(3585.985mil,3505.35mil)  Component Side and 
+                     Pad U2-31(3585.985mil,3523.07mil)  Component Side
+   Violation between Pad U2-33(3585.985mil,3487.64mil)  Component Side and 
+                     Pad U2-32(3585.985mil,3505.35mil)  Component Side
+   Violation between Pad U2-34(3585.985mil,3469.92mil)  Component Side and 
+                     Pad U2-33(3585.985mil,3487.64mil)  Component Side
+   Violation between Pad U2-35(3585.985mil,3452.2mil)  Component Side and 
+                     Pad U2-34(3585.985mil,3469.92mil)  Component Side
+   Violation between Pad U2-36(3585.985mil,3434.49mil)  Component Side and 
+                     Pad U2-35(3585.985mil,3452.2mil)  Component Side
+   Violation between Pad U2-37(3585.985mil,3416.77mil)  Component Side and 
+                     Pad U2-36(3585.985mil,3434.49mil)  Component Side
+   Violation between Pad U2-38(3585.985mil,3399.05mil)  Component Side and 
+                     Pad U2-37(3585.985mil,3416.77mil)  Component Side
+   Violation between Pad U2-39(3585.985mil,3381.34mil)  Component Side and 
+                     Pad U2-38(3585.985mil,3399.05mil)  Component Side
+   Violation between Pad R7-2(4196.732mil,3090mil)  Component Side and 
+                     Pad R7-1(4163.268mil,3090mil)  Component Side
+   Violation between Pad C14-2(3676.732mil,3315mil)  Component Side and 
+                     Pad C14-1(3643.268mil,3315mil)  Component Side
+   Violation between Pad C13-2(3766.732mil,3315mil)  Component Side and 
+                     Pad C13-1(3733.268mil,3315mil)  Component Side
+   Violation between Pad C11-2(4106.732mil,3090mil)  Component Side and 
+                     Pad C11-1(4073.268mil,3090mil)  Component Side
+   Violation between Pad U13-2(4140mil,3142.756mil)  Component Side and 
+                     Pad U13-1(4102.598mil,3142.756mil)  Component Side
+   Violation between Pad U13-3(4177.401mil,3142.756mil)  Component Side and 
+                     Pad U13-2(4140mil,3142.756mil)  Component Side
+   Violation between Pad U13-5(4140mil,3237.244mil)  Component Side and 
+                     Pad U13-4(4177.401mil,3237.244mil)  Component Side
+   Violation between Pad U13-6(4102.598mil,3237.244mil)  Component Side and 
+                     Pad U13-5(4140mil,3237.244mil)  Component Side
+   Violation between Pad C6-2(3535mil,3541.732mil)  Component Side and 
+                     Pad C6-1(3535mil,3508.268mil)  Component Side
+   Violation between Pad R18-1(3920mil,3031.732mil)  Component Side and 
+                     Pad R18-2(3920mil,2998.268mil)  Component Side
+   Violation between Pad C23-1(4030mil,3031.732mil)  Component Side and 
+                     Pad C23-2(4030mil,2998.268mil)  Component Side
+   Violation between Pad L2-2(4085mil,2998.268mil)  Component Side and 
+                     Pad L2-1(4085mil,3031.732mil)  Component Side
+   Violation between Pad R17-1(3975mil,3031.732mil)  Component Side and 
+                     Pad R17-2(3975mil,2998.268mil)  Component Side
+   Violation between Pad C31-1(4276.732mil,2820mil)  Component Side and 
+                     Pad C31-2(4243.268mil,2820mil)  Component Side
+   Violation between Pad C32-1(4301.732mil,3090mil)  Component Side and 
+                     Pad C32-2(4268.268mil,3090mil)  Component Side
+   Violation between Pad U7-5(3705mil,3000.709mil)  Solder Side and 
+                     Pad U7-6(3679.409mil,3000.709mil)  Solder Side
+   Violation between Pad U7-4(3730.59mil,3000.709mil)  Solder Side and 
+                     Pad U7-5(3705mil,3000.709mil)  Solder Side
+   Violation between Pad U7-2(3705mil,3089.291mil)  Solder Side and 
+                     Pad U7-3(3730.59mil,3089.291mil)  Solder Side
+   Violation between Pad U7-1(3679.409mil,3089.291mil)  Solder Side and 
+                     Pad U7-2(3705mil,3089.291mil)  Solder Side
+   Violation between Pad R15-2(3440mil,3133.268mil)  Solder Side and 
+                     Pad R15-1(3440mil,3166.732mil)  Solder Side
+   Violation between Pad C29-2(3566.732mil,3455mil)  Solder Side and 
+                     Pad C29-1(3533.268mil,3455mil)  Solder Side
+   Violation between Pad C27-2(3756.732mil,3140mil)  Solder Side and 
+                     Pad C27-1(3723.268mil,3140mil)  Solder Side
+   Violation between Pad R12-2(3535mil,3508.268mil)  Solder Side and 
+                     Pad R12-1(3535mil,3541.732mil)  Solder Side
+   Violation between Pad R10-2(3595mil,3133.268mil)  Solder Side and 
+                     Pad R10-1(3595mil,3166.732mil)  Solder Side
+   Violation between Pad R11-2(3540mil,3166.732mil)  Solder Side and 
+                     Pad R11-1(3540mil,3133.268mil)  Solder Side
+   Violation between Pad R9-2(3595mil,3043.268mil)  Solder Side and 
+                     Pad R9-1(3595mil,3076.732mil)  Solder Side
+   Violation between Pad R8-2(4177.918mil,3089.923mil)  Solder Side and 
+                     Pad R8-1(4211.383mil,3089.923mil)  Solder Side
+   Violation between Pad R4-2(4357.992mil,3430mil)  Solder Side and 
+                     Pad R4-0(4291.063mil,3430mil)  Solder Side
+   Violation between Pad R4-3(4357.992mil,3177.992mil)  Solder Side and 
+                     Pad R4-1(4291.063mil,3178mil)  Solder Side
+   Violation between Area Fill (4095mil,3157.953mil) (4217.047mil,3280mil)  Bottom Solder and 
+                     Pad Free-0(3925.787mil,3227.205mil)  Solder Side
+   Violation between Pad R16-1(4178.268mil,3025mil)  Solder Side and 
+                     Pad R16-2(4211.732mil,3025mil)  Solder Side
+   Violation between Pad P2-3(4115mil,2860mil)  Multi-Layer and 
+                     Pad P2-1(4115mil,2910mil)  Multi-Layer
+   Violation between Pad P2-2(4165mil,2910mil)  Multi-Layer and 
+                     Pad P2-1(4115mil,2910mil)  Multi-Layer
+   Violation between Pad P2-4(4165mil,2860mil)  Multi-Layer and 
+                     Pad P2-2(4165mil,2910mil)  Multi-Layer
+   Violation between Pad P2-5(4115mil,2810mil)  Multi-Layer and 
+                     Pad P2-3(4115mil,2860mil)  Multi-Layer
+   Violation between Pad P2-4(4165mil,2860mil)  Multi-Layer and 
+                     Pad P2-3(4115mil,2860mil)  Multi-Layer
+   Violation between Pad P2-6(4165mil,2810mil)  Multi-Layer and 
+                     Pad P2-4(4165mil,2860mil)  Multi-Layer
+   Violation between Pad P2-6(4165mil,2810mil)  Multi-Layer and 
+                     Pad P2-5(4115mil,2810mil)  Multi-Layer
+   Violation between Pad P1-3(3650mil,2850mil)  Multi-Layer and 
+                     Pad P1-1(3600mil,2850mil)  Multi-Layer
+   Violation between Pad P1-2(3600mil,2900mil)  Multi-Layer and 
+                     Pad P1-1(3600mil,2850mil)  Multi-Layer
+   Violation between Pad P1-4(3650mil,2900mil)  Multi-Layer and 
+                     Pad P1-2(3600mil,2900mil)  Multi-Layer
+   Violation between Pad P1-4(3650mil,2900mil)  Multi-Layer and 
+                     Pad P1-3(3650mil,2850mil)  Multi-Layer
+Rule Violations :169
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=7mil) (Max=300mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7.6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 695
+Time Elapsed        : 00:00:03

@@ -1,0 +1,16 @@
+Added Component: Designator=C9(0402_C)
+Added Component: Designator=C10(0402_C)
+Added Component: Designator=R6(0402_R)
+Added Component: Designator=Y1(SMD-3225_4P)
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=XTALOUT Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=XTALIN Pin=C10-2
+Added Pin To Net: NetName=XTALOUT Pin=R6-1
+Added Pin To Net: NetName=XTALIN Pin=R6-2
+Added Pin To Net: NetName=XTALOUT Pin=Y1-1
+Added Pin To Net: NetName=XTALIN Pin=Y1-3
+Added Member To Class: ClassName=main Member=Component C9 15pF (150) 5% 50V
+Added Member To Class: ClassName=main Member=Component C10 15pF (150) 5% 50V
+Added Member To Class: ClassName=main Member=Component R6 1M¦¸ (1004) ¡À1%
+Added Member To Class: ClassName=main Member=Component Y1 8MHZ 20PF 10PPM
