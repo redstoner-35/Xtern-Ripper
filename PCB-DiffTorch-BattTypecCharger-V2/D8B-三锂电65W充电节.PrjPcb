@@ -496,6 +496,8 @@ OutputName3=IPC-2581 Files
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
+Configuration3_Name1=OutputConfigurationParameter1
+Configuration3_Item1=Record=IPC2581View|MeasurementSystem=Metric|FloatingPointPrecision=6
 OutputType4=Test Points
 OutputName4=Test Point Report
 OutputDocumentPath4=
