@@ -1,9 +1,0 @@
-Added Component: Designator=D4(SOD-323)
-Added Component: Designator=R13(0402_R)
-Added Pin To Net: NetName=5V Pin=D4-1
-Added Pin To Net: NetName=PWMDIM Pin=R13-1
-Added Pin To Net: NetName=NetD4_2 Pin=D4-2
-Added Pin To Net: NetName=NetD4_2 Pin=R13-2
-Added Net: Name=NetD4_2
-Added Member To Class: ClassName=main Member=Component D4 1N4148WS T4
-Added Member To Class: ClassName=main Member=Component R13 2.7K¦¸ (2701) ¡À1%

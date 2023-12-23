@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=VTCBUS Pin=R15-2
-Added Pin To Net: NetName=NetC16_2 Pin=R15-2
-Change Net Name : Old Net Name=NetC16_2 New Net Name=VDCT

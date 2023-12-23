@@ -1,9 +1,0 @@
-Change Component Designator: OldDesignator=D2 NewDesignator=D3
-Added Component: Designator=R?(0402_R)
-Added Component: Designator=R?(0402_R)
-Added Pin To Net: NetName=SCL Pin=R?-1
-Added Pin To Net: NetName=SDA Pin=R?-1
-Added Pin To Net: NetName=3V3 Pin=R?-2
-Added Pin To Net: NetName=3V3 Pin=R?-2
-Added Member To Class: ClassName=main Member=Component D3 1N4148WS T4
-Added Member To Class: ClassName=main Member=Component R? 3.3K¦¸ (3301) ¡À1%
