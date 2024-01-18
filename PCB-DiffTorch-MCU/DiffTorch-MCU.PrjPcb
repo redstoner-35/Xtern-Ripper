@@ -584,7 +584,7 @@ Configuration4_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFit
 Configuration4_Name4=GroupOrder
 Configuration4_Item4=Comment=True|Footprint=True
 Configuration4_Name5=OutputConfigurationParameter1
-Configuration4_Item5=?
+Configuration4_Item5=?
 Configuration4_Name6=SortOrder
 Configuration4_Item6=Designator=Up|Comment=Up|Footprint=Up
 Configuration4_Name7=VisibleOrder
