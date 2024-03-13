@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=LEDI Pin=P1-3
+Added Component: Designator=C33(0402_C)
+Added Component: Designator=R20(0402_R)
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=LEDI Pin=R20-2
+Added Pin To Net: NetName=LEDIFB Pin=C33-2
+Added Pin To Net: NetName=LEDIFB Pin=P1-3
+Added Pin To Net: NetName=LEDIFB Pin=R20-1
+Added Net: Name=LEDIFB
+Added Member To Class: ClassName=main Member=Component C33 1.0uF (105) 10% 25V
+Added Member To Class: ClassName=main Member=Component R20 3.3K¦¸ (3301) ¡À1%

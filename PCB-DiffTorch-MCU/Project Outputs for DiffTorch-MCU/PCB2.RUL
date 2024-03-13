@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: D:\Projects\Union-Projects\DiffTorch-Extreme\PCB-DiffTorch-MCU\PCB2.PcbDoc
+DRC Rules Export File for PCB: D:\Projects\Union-Projects\DiffTorch-Extreme\PCB\PCB-DiffTorch-MCU\PCB2.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.00
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.00

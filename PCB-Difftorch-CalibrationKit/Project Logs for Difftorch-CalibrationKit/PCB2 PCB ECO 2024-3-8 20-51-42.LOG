@@ -1,0 +1,13 @@
+Change Component DesignItemId : Designator=R4 Old DesignItemId=0603 1K次 (1001) 1% New DesignItemId=0603 2K次 (2001) 1%
+Change Component DesignItemId : Designator=C7 Old DesignItemId=0603 47nF (473) 10% 50V New DesignItemId=0603 1uF (105) 10% 50V
+Change Component Comment : Designator=R4 Old Comment=1K次 (1001) ㊣1% New Comment=2K次 (2001) ㊣1%
+Change Component Comment : Designator=C7 Old Comment=47nF (473) 10% 50V New Comment=1uF (105) 10% 50V
+Added Component: Designator=C11(0603_C)
+Added Component: Designator=C12(0603_C)
+Added Component: Designator=U5(SOT-23-5)
+Added Pin To Net: NetName=AUXVO Pin=U5-3
+Added Pin To Net: NetName=AUXVO Pin=U5-4
+Added Net: Name=AUXVO
+Added Member To Class: ClassName=main Member=Component C11 100nF (104) 10% 50V
+Added Member To Class: ClassName=main Member=Component C12 1uF (105) 10% 50V
+Added Member To Class: ClassName=main Member=Component U5 LMV321IDBVRG4

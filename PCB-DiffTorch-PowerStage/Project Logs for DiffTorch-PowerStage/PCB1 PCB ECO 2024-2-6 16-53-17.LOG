@@ -1,0 +1,4 @@
+Added Component: Designator=R21(0402_R)
+Added Pin To Net: NetName=NetQ2_3 Pin=R21-1
+Added Pin To Net: NetName=GND Pin=R21-2
+Added Member To Class: ClassName=main Member=Component R21 200¦¸ (2000) ¡À1%

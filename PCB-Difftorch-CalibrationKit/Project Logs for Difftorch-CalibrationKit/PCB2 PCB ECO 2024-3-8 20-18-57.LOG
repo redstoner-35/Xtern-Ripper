@@ -1,0 +1,4 @@
+Added Component: Designator=R?(0402_R)
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=SEL Pin=R?-2
+Added Member To Class: ClassName=main Member=Component R? 10K¦¸ (1002) ¡À1%

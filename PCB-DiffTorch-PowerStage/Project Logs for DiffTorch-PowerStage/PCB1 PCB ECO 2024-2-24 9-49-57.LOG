@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=LEDEN Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=P1-4
+Removed Pin From Net: NetName=LEDEN Pin=R16-1
+Added Pin To Net: NetName=DCDCEN Pin=D2-2
+Added Pin To Net: NetName=DCDCEN Pin=P1-4
+Added Pin To Net: NetName=DCDCEN Pin=R16-1
+Added Net: Name=DCDCEN

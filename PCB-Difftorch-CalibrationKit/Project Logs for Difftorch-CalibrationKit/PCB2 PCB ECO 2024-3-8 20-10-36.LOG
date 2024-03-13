@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=12V Pin=P1-1
+Added Pin To Net: NetName=12V Pin=P1-3
+Added Pin To Net: NetName=SV Pin=P1-1
+Added Net: Name=SV
+Added Member To Class: ClassName=main Member=Component P1 CON 4
