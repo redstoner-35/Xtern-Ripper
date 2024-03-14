@@ -1,6 +1,6 @@
 ### 概述
 
-这是和[FlashLightOS](https://gitee.com/redstoner-thirty-five/flash-light-os "固件地址")固件所搭配的Xtern Ripper V3.0的硬件平台。也是该固件的官方首发平台。该硬件平台一共有5块PCB,分别是功率板,MCU板和侧按PCB，月光DLC小板和月光DLC取电riser板。
+这是和[FlashLightOS](https://github.com/redstoner-35/FlashLightOS "固件地址")固件所搭配的Xtern Ripper V3.0的硬件平台。也是该固件的官方首发平台。该硬件平台一共有5块PCB,分别是功率板,MCU板和侧按PCB，月光DLC小板和月光DLC取电riser板。
 
 ### 工程结构
 
