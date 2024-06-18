@@ -17,7 +17,7 @@
 + PCB-DiffTorch-BattHolder ：这个文件夹包含给东东海D8B/D7D通用三锂电串联电池架所准备的加强件。使用弹片负极大面积铜柱正极可以持续承受20A的放电输出。且具有2A电流的主动均衡功能。
 + PCB-DiffTorch-BattTypecCharger：这个文件夹包含给东东海D8B外壳配套的Typec充电节所准备的三锂电串联直充板子，支持标准功率（9V2A 18W）的快速充电。此驱动并不依赖于此PCB。
 + PCB-DiffTorch-BattTypecCharger-V2：这个文件夹包含给东东海D8B外壳配套的Typec充电节所准备的三锂电串联直充板子（旧版本，采用指示灯指示充电状态），支持65W PD3.0的高功率快速充电。此驱动并不依赖于此PCB。
-+ PCB-DiffTorch-BattTypecCharger-V3：这个文件夹包含给东东海D8B外壳配套的Typec充电节所准备的三锂电串联充电宝方案板子，支持65W PD3.0的高功率快速充电和60W的反向放电，同时具有OLED屏幕指示充电电量。此驱动并不依赖于此PCB。
++ PCB-DiffTorch-BattTypecCharger-V3：这个文件夹包含给东东海D8B外壳配套的Typec充电节所准备的三锂电串联充电宝方案板子，支持65W PD3.0的高功率快速充电和60W的反向放电，同时具有OLED屏幕指示系统的运行状况，如您需要该PCB硬件部分所对应的固件，请点击[这里](https://github.com/redstoner-35/DDH_3SLithumChg_FW)。此驱动并不依赖于此PCB。
 
 ### 散热五金铜件
 
