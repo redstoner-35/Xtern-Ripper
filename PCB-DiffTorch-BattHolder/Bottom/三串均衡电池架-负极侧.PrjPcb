@@ -92,74 +92,62 @@ DocumentPath=Project Outputs for 三串均衡电池架-负极侧\Design Rule Check - PCB-B
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for 三串均衡电池架-负极侧\PCB-Bottom.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for 三串均衡电池架-负极侧\PCB-Bottom.REP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for 三串均衡电池架-负极侧\PCB-Bottom.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
 DocumentPath=Project Outputs for 三串均衡电池架-负极侧\PCB-Bottom_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for 三串均衡电池架-负极侧\PCB-Bottom_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for 三串均衡电池架-负极侧\PCB-Bottom_Drawing_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for 三串均衡电池架-负极侧\PCB-Bottom_Drillmap_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for 三串均衡电池架-负极侧\PCB-Bottom_Keep-out.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for 三串均衡电池架-负极侧\PCB-Bottom_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for 三串均衡电池架-负极侧\PCB-Bottom_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for 三串均衡电池架-负极侧\PCB-Bottom_NPTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for 三串均衡电池架-负极侧\PCB-Bottom_Pads_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for 三串均衡电池架-负极侧\PCB-Bottom_Pads_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for 三串均衡电池架-负极侧\PCB-Bottom_Paste_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for 三串均衡电池架-负极侧\PCB-Bottom_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for 三串均衡电池架-负极侧\PCB-Bottom_PTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for 三串均衡电池架-负极侧\PCB-Bottom_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for 三串均衡电池架-负极侧\PCB-Bottom_Soldermask_Top.gbr
 DItemRevisionGUID=
 

@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Top.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_DCDC|SchDesignator=U_DCDC|FileName=DCDC.SchDoc|SymbolType=Normal|RawFileName=DCDC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=U_MCU|SchDesignator=U_MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
