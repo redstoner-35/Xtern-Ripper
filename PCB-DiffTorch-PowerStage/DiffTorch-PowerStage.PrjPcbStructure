@@ -1,1 +1,4 @@
 Record=TopLevelDocument|FileName=main.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_ConstController|SchDesignator=U_ConstController|FileName=ConstController.SchDoc|SymbolType=Normal|RawFileName=ConstController.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_MonitorAndMCUConn|SchDesignator=U_MonitorAndMCUConn|FileName=MonitorAndMCUConn.SchDoc|SymbolType=Normal|RawFileName=MonitorAndMCUConn.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=U_PowerAndInput|SchDesignator=U_PowerAndInput|FileName=PowerAndInput.SchDoc|SymbolType=Normal|RawFileName=PowerAndInput.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
